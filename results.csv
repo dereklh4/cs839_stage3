@@ -1,0 +1,707 @@
+,_id,l_ID,r_ID,l_Album,l_Artist,l_Release Date,r_Album,r_Artist,r_Release Date
+3,3,a16,b3181,Saturation III,BROCKHAMPTON,Dec 15 2017,Saturation III,Brockhampton,Dec 15 2017
+19,19,a18,b3183,Revival,Eminem,Dec 15 2017,Revival,Eminem,Dec 15 2017
+41,41,a21,b3184,The Beautiful & Damned,G-Eazy,Dec 15 2017,The Beautiful & Damned,G-Eazy,Dec 15 2017
+51,51,a23,b3180,Asking Alexandria,Asking Alexandria,Dec 15 2017,Asking Alexandria,Asking Alexandria,Dec 15 2017
+142,142,a34,b3176,What Makes You Country,Luke Bryan,Dec 8 2017,What Makes You Country,Luke Bryan,Dec 8 2017
+175,175,a38,b3169,War & Leisure,Miguel,Dec 1 2017,War & Leisure,Miguel,Dec 1 2017
+217,217,a43,b3171,Songs of Experience,U2,Dec 1 2017,Songs of Experience,U2,Dec 1 2017
+336,336,a58,b3160,Who Built the Moon?,Noel Gallagher's High Flying Birds,Nov 24 2017,Who Built the Moon?,Noel Gallagher's High Flying Birds,Nov 24 2017
+339,339,a59,b3154,Utopia,Björk,Nov 24 2017,Utopia,Björk,Nov 24 2017
+376,376,a63,b3150,The Architect,Paloma Faith,Nov 17 2017,The Architect,Paloma Faith,Nov 17 2017
+421,421,a66,b3153,Blue Lips,Tove Lo,Nov 17 2017,Blue Lips,Tove Lo,Nov 17 2017
+430,430,a67,b3148,Low in High School,Morrissey,Nov 17 2017,Low in High School,Morrissey,Nov 17 2017
+457,457,a69,b3147,If All I Was Was Black,Mavis Staples,Nov 17 2017,If All I Was Was Black,Mavis Staples,Nov 17 2017
+535,535,a75,b3141,Romaplasm,Baths,Nov 17 2017,Romaplasm,Baths,Nov 17 2017
+587,587,a78,b3151,Everyday Is Christmas,Sia,Nov 17 2017,Everyday Is Christmas,Sia,Nov 17 2017
+676,676,a85,b3142,I Knew You When,Bob Seger,Nov 17 2017,I Knew You When,Bob Seger,Nov 17 2017
+688,688,a86,b3130,Jupiter Calling,The Corrs,Nov 10 2017,Jupiter Calling,The Corrs,Nov 10 2017
+704,704,a87,b3136,Kid Kruschev,Sleigh Bells,Nov 10 2017,Kid Kruschev,Sleigh Bells,Nov 10 2017
+752,752,a92,b3134,Interiors,Quicksand,Nov 10 2017,Interiors,Quicksand,Nov 10 2017
+850,850,a102,b3132,Synthesis,Evanescence,Nov 10 2017,Synthesis,Evanescence,Nov 10 2017
+951,951,a112,b3121,The Dusk in Us,Converge,Nov 3 2017,The Dusk in Us,Converge,Nov 3 2017
+1012,1012,a117,b3127,Red Pill Blues,Maroon 5,Nov 3 2017,Red Pill Blues,Maroon 5,Nov 3 2017
+1096,1096,a125,b3123,Unapologetically,Kelsea Ballerini,Nov 3 2017,Unapologetically,Kelsea Ballerini,Nov 3 2017
+1202,1202,a135,b3116,Without Warning,21 Savage,Oct 31 2017,Without Warning,"21 Savage, Offset and Metro Boomin",Oct 31 2017
+1263,1263,a138,b3114,Pacific Daydream,Weezer,Oct 27 2017,Pacific Daydream,Weezer,Oct 27 2017
+1275,1275,a139,b3106,Screen Memories,John Maus,Oct 27 2017,Screen Memories,John Maus,Oct 27 2017
+1396,1396,a145,b3107,Meaning of Life,Kelly Clarkson,Oct 27 2017,Meaning of Life,Kelly Clarkson,Oct 27 2017
+1410,1410,a146,b3101,Nat King Cole & Me,Gregory Porter,Oct 27 2017,Nat King Cole & Me,Gregory Porter,Oct 27 2017
+1505,1505,a151,b3096,4eva Is a Mighty Long Time,Big K.R.I.T.,Oct 27 2017,4eva Is a Mighty Long Time,Big K.R.I.T.,Oct 27 2017
+1546,1546,a153,b3097,Plunge,Fever Ray,Oct 27 2017,Plunge,Fever Ray,Oct 27 2017
+1690,1690,a161,b3090,All American Made,Margo Price,Oct 20 2017,All American Made,Margo Price,Oct 20 2017
+1781,1781,a167,b3091,Flicker,Niall Horan,Oct 20 2017,Flicker,Niall Horan,Oct 20 2017
+1792,1792,a168,b3087,Glasshouse,Jessie Ware,Oct 20 2017,Glasshouse,Jessie Ware,Oct 20 2017
+2084,2084,a187,b3094,A Long Way from Your Heart,Turnpike Troubadours,Oct 20 2017,A Long Way from Your Heart,Turnpike Troubadours,Oct 20 2017
+2173,2173,a193,b3076,The Knowledge,Squeeze,Oct 13 2017,The Knowledge,Squeeze,Oct 13 2017
+2204,2204,a195,b3073,Carry Fire,Robert Plant,Oct 13 2017,Carry Fire,Robert Plant,Oct 13 2017
+2244,2244,a197,b3079,Ogilala,William Patrick Corgan,Oct 13 2017,Ogilala,William Patrick Corgan,Oct 13 2017
+2245,2245,a198,b3063,Colors,Beck,Oct 13 2017,Colors,Beck,Oct 13 2017
+2276,2276,a199,b3077,Masseduction,St. Vincent,Oct 13 2017,Masseduction,St. Vincent,Oct 13 2017
+2281,2281,a200,b3065,Lotta Sea Lice,Courtney Barnett,Oct 13 2017,Lotta Sea Lice,Courtney Barnett and Kurt Vile,Oct 13 2017
+2302,2302,a201,b3069,The Ooz,King Krule,Oct 13 2017,The Ooz,King Krule,Oct 13 2017
+2379,2379,a205,b3078,There Is No Love in Fluorescent Light,Stars,Oct 13 2017,There Is No Love in Fluorescent Light,Stars,Oct 13 2017
+2390,2390,a206,b3072,Beautiful Trauma,P!nk,Oct 13 2017,Beautiful Trauma,Pink,Oct 13 2017
+2422,2422,a208,b3070,Shapeshifter,Knuckle Puck,Oct 13 2017,Shapeshifter,Knuckle Puck,Oct 13 2017
+2436,2436,a209,b3067,Mr. Davis,Gucci Mane,Oct 13 2017,Mr. Davis,Gucci Mane,Oct 13 2017
+2571,2571,a217,b3066,Morning After,dvsn,Oct 13 2017,Morning After,Dvsn,Oct 13 2017
+2612,2612,a219,b3057,As You Were,Liam Gallagher,Oct 6 2017,As You Were,Liam Gallagher,Oct 6 2017
+2821,2821,a232,b3058,Heaven Upside Down,Marilyn Manson,Oct 6 2017,Heaven Upside Down,Marilyn Manson,Oct 6 2017
+2844,2844,a234,b3049,French Touch,Carla Bruni,Oct 6 2017,French Touch,Carla Bruni,Oct 6 2017
+2865,2865,a235,b3054,Take Me Apart,Kelela,Oct 6 2017,Take Me Apart,Kelela,Oct 6 2017
+2875,2875,a236,b3048,Phantom Anthem,August Burns Red,Oct 6 2017,Phantom Anthem,August Burns Red,Oct 6 2017
+3158,3158,a396,b2964,Orc,Oh Sees,Aug 25 2017,Orc,Oh Sees,Aug 25 2017
+3199,3199,a398,b2969,A Deeper Understanding,The War on Drugs,Aug 25 2017,A Deeper Understanding,The War on Drugs,Aug 25 2017
+3251,3251,a401,b2967,Villains,Queens of the Stone Age,Aug 25 2017,Villains,Queens of the Stone Age,Aug 25 2017
+3259,3259,a402,b2957,Exile in the Outer Ring,EMA,Aug 25 2017,Exile in the Outer Ring,EMA,Aug 25 2017
+3394,3394,a409,b2966,"All We Know of Heaven, All We Need of Hell",PVRIS,Aug 25 2017,"All We Know of Heaven, All We Need of Hell",PVRIS,Aug 25 2017
+3494,3494,a415,b2958,Fifth Harmony,Fifth Harmony,Aug 25 2017,Fifth Harmony,Fifth Harmony,Aug 25 2017
+3506,3506,a416,b2952,Blue Chips 7000,Action Bronson,Aug 25 2017,Blue Chips 7000,Action Bronson,Aug 25 2017
+3661,3661,a424,b2963,Be Here Now,The Mynabirds,Aug 25 2017,Be Here Now,The Mynabirds,Aug 25 2017
+3810,3810,a434,b2946,Painted Ruins,Grizzly Bear,Aug 18 2017,Painted Ruins,Grizzly Bear,Aug 18 2017
+3836,3836,a436,b2950,To the Bone,Steven Wilson,Aug 18 2017,To the Bone,Steven Wilson,Aug 18 2017
+3850,3850,a438,b2942,Not Dark Yet,Shelby Lynne,Aug 18 2017,Not Dark Yet,Allison Moorer and Shelby Lynne,Aug 18 2017
+3973,3973,a450,b2936,Rainbow,Kesha,Aug 11 2017,Rainbow,Kesha,Aug 11 2017
+4123,4123,a469,b2920,The Rise of Chaos,Accept,Aug 4 2017,The Rise of Chaos,Accept,Aug 4 2017
+4152,4152,a471,b2929,Purgatory,Tyler Childers,Aug 4 2017,Purgatory,Tyler Childers,Aug 4 2017
+4166,4166,a473,b2911,New Facts Emerge,The Fall,Jul 28 2017,New Facts Emerge,The Fall,Jul 28 2017
+4176,4176,a474,b2910,Everything Now,Arcade Fire,Jul 28 2017,Everything Now,Arcade Fire,Jul 28 2017
+4186,4186,a475,b2909,Paranormal,Alice Cooper,Jul 28 2017,Paranormal,Alice Cooper,Jul 28 2017
+4203,4203,a476,b2915,A Black Mile to the Surface,Manchester Orchestra,Jul 28 2017,A Black Mile to the Surface,Manchester Orchestra,Jul 28 2017
+4251,4251,a480,b2919,The Autobiography,Vic Mensa,Jul 28 2017,The Autobiography,Vic Mensa,Jul 28 2017
+4467,4467,a499,b2902,Goodnight Rhonda Lee,Nicole Atkins,Jul 21 2017,Goodnight Rhonda Lee,Nicole Atkins,Jul 21 2017
+4508,4508,a502,b2898,Sacred Hearts Club,Foster the People,Jul 21 2017,Sacred Hearts Club,Foster the People,Jul 21 2017
+4519,4519,a503,b2894,Eucalyptus,Avey Tare,Jul 21 2017,Eucalyptus,Avey Tare,Jul 21 2017
+4550,4550,a505,b2895,What Do You Think About the Car?,Declan McKenna,Jul 21 2017,What Do You Think About the Car?,Declan McKenna,Jul 21 2017
+4585,4585,a507,b2900,Lust for Life,Lana Del Rey,Jul 21 2017,Lust for Life,Lana Del Rey,Jul 21 2017
+4597,4597,a508,b2897,Raskit,Dizzee Rascal,Jul 21 2017,Raskit,Dizzee Rascal,Jul 21 2017
+4651,4651,a511,b2906,Flower Boy,"Tyler, The Creator",Jul 21 2017,Flower Boy,"Tyler, The Creator",Jul 21 2017
+4749,4749,a518,b2893,Out in the Storm,Waxahatchee,Jul 14 2017,Out in the Storm,Waxahatchee,Jul 14 2017
+4794,4794,a522,b2890,Mura Masa,Mura Masa,Jul 14 2017,Mura Masa,Mura Masa,Jul 14 2017
+4898,4898,a531,b2886,Jungle Rules,French Montana,Jul 14 2017,Jungle Rules,French Montana,Jul 14 2017
+5059,5059,a545,b2872,Issa Album,21 Savage,Jul 7 2017,Issa Album,21 Savage,Jul 7 2017
+5079,5079,a547,b2874,Hug of Thunder,Broken Social Scene,Jul 7 2017,Hug of Thunder,Broken Social Scene,Jul 7 2017
+5101,5101,a549,b2878,Every Valley,Public Service Broadcasting,Jul 7 2017,Every Valley,Public Service Broadcasting,Jul 7 2017
+5246,5246,a563,b2866,Hydrograd,Stone Sour,Jun 30 2017,Hydrograd,Stone Sour,Jun 30 2017
+5281,5281,a565,b2869,Mister Mellow,Washed Out,Jun 30 2017,Mister Mellow,Washed Out,Jun 30 2017
+5306,5306,a567,b2862,4:44,Jay-Z,Jun 30 2017,4:44,Jay-Z,Jun 30 2017
+5344,5344,a569,b2868,TLC,TLC,Jun 30 2017,TLC,TLC,Jun 30 2017
+5348,5348,a570,b2856,B-Sides and Rarities,Beach House,Jun 30 2017,B-Sides and Rarities,Beach House,Jun 30 2017
+5404,5404,a573,b2864,LANY,LANY,Jun 30 2017,LANY,LANY,Jun 30 2017
+5528,5528,a581,b2832,The Underside of Power,Algiers,Jun 23 2017,The Underside of Power,Algiers,Jun 23 2017
+5559,5559,a582,b2843,Murder of the Universe,King Gizzard & the Lizard Wizard,Jun 23 2017,Murder of the Universe,King Gizzard & the Lizard Wizard,Jun 23 2017
+5605,5605,a584,b2849,Big Fish Theory,Vince Staples,Jun 23 2017,Big Fish Theory,Vince Staples,Jun 23 2017
+5616,5616,a585,b2840,Evolve,Imagine Dragons,Jun 23 2017,Evolve,Imagine Dragons,Jun 23 2017
+5640,5640,a586,b2844,Dust,Laurel Halo,Jun 23 2017,Dust,Laurel Halo,Jun 23 2017
+5732,5732,a591,b2836,Grateful,DJ Khaled,Jun 23 2017,Grateful,DJ Khaled,Jun 23 2017
+5933,5933,a600,b2822,Woodstock,Portugal. The Man,Jun 16 2017,Woodstock,Portugal. The Man,Jun 16 2017
+5951,5951,a601,b2813,Crack-Up,Fleet Foxes,Jun 16 2017,Crack-Up,Fleet Foxes,Jun 16 2017
+5971,5971,a602,b2806,Fake Sugar,Beth Ditto,Jun 16 2017,Fake Sugar,Beth Ditto,Jun 16 2017
+6070,6070,a605,b2824,Weather Diaries,Ride,Jun 16 2017,Weather Diaries,Ride,Jun 16 2017
+6171,6171,a609,b2817,The Nashville Sound,Jason Isbell And The 400 Unit,Jun 16 2017,The Nashville Sound,Jason Isbell and The 400 Unit,Jun 16 2017
+6206,6206,a610,b2825,How Did We Get So Dark?,Royal Blood,Jun 16 2017,How Did We Get So Dark?,Royal Blood,Jun 16 2017
+6246,6246,a612,b2811,Iteration,Com Truise,Jun 16 2017,Iteration,Com Truise,Jun 16 2017
+6282,6282,a613,b2820,Melodrama,Lorde,Jun 16 2017,Melodrama,Lorde,Jun 16 2017
+6301,6301,a614,b2812,Abysmal Thoughts,The Drums,Jun 16 2017,Abysmal Thoughts,The Drums,Jun 16 2017
+6374,6374,a617,b2804,Other,Alison Moyet,Jun 16 2017,Other,Alison Moyet,Jun 16 2017
+6406,6406,a618,b2809,We're All Alright!,Cheap Trick,Jun 16 2017,We're All Alright!,Cheap Trick,Jun 16 2017
+6616,6616,a626,b2803,Pretty Girls Like Trap Music,2 Chainz,Jun 16 2017,Pretty Girls Like Trap Music,2 Chainz,Jun 16 2017
+6668,6668,a627,b2828,Beautiful Thugger Girls,Young Thug,Jun 16 2017,Beautiful Thugger Girls,Young Thug,Jun 16 2017
+7000,7000,a640,b2785,Cigarettes After Sex,Cigarettes After Sex,Jun 9 2017,Cigarettes After Sex,Cigarettes After Sex,Jun 9 2017
+7031,7031,a641,b2792,Truth Is a Beautiful Thing,London Grammar,Jun 9 2017,Truth Is a Beautiful Thing,London Grammar,Jun 9 2017
+7056,7056,a642,b2793,Ti Amo,Phoenix,Jun 9 2017,Ti Amo,Phoenix,Jun 9 2017
+7126,7126,a645,b2791,Lindsey Buckingham/Christine McVie,Lindsey Buckingham,Jun 9 2017,Lindsey Buckingham/Christine McVie,Lindsey Buckingham and Christine McVie,Jun 9 2017
+7157,7157,a646,b2798,Planetarium,Sufjan Stevens,Jun 9 2017,Planetarium,"Sufjan Stevens, Bryce Dessner, Nico Muhly, James McAlister",Jun 9 2017
+7172,7172,a647,b2789,Witness,Katy Perry,Jun 9 2017,Witness,Katy Perry,Jun 9 2017
+7184,7184,a648,b2777,The Optimist,Anathema,Jun 9 2017,The Optimist,Anathema,Jun 9 2017
+7250,7250,a650,b2795,Wolves,Rise Against,Jun 9 2017,Wolves,Rise Against,Jun 9 2017
+7265,7265,a651,b2786,Adiós,Glen Campbell,Jun 9 2017,Adiós,Glen Campbell,Jun 9 2017
+7345,7345,a654,b2794,Trouble Maker,Rancid,Jun 9 2017,Trouble Maker,Rancid,Jun 9 2017
+7377,7377,a656,b2778,Binary,Ani DiFranco,Jun 9 2017,Binary,Ani DiFranco,Jun 9 2017
+7468,7468,a659,b2797,...Of the Dark Light,Suffocation,Jun 9 2017,...Of the Dark Light,Suffocation,Jun 9 2017
+7528,7528,a662,b2746,Relaxer,Alt-J,Jun 2 2017,Relaxer,alt-J,Jun 2 2017
+7562,7562,a663,b2753,Dua Lipa,Dua Lipa,Jun 2 2017,Dua Lipa,Dua Lipa,Jun 2 2017
+7599,7599,a664,b2763,Is This the Life We Really Want?,Roger Waters,Jun 2 2017,Is This the Life We Really Want?,Roger Waters,Jun 2 2017
+7641,7641,a666,b2751,Waiting on a Song,Dan Auerbach,Jun 2 2017,Waiting on a Song,Dan Auerbach,Jun 2 2017
+7681,7681,a667,b2764,Home Counties,Saint Etienne,Jun 2 2017,Home Counties,Saint Etienne,Jun 2 2017
+7909,7909,a676,b2749,Gone Now,Bleachers,Jun 2 2017,Gone Now,Bleachers,Jun 2 2017
+7961,7961,a678,b2747,City of No Reply,Amber Coffman,Jun 2 2017,City of No Reply,Amber Coffman,Jun 2 2017
+8104,8104,a683,b2755,Hopeless Fountain Kingdom,Halsey,Jun 2 2017,Hopeless Fountain Kingdom,Halsey,Jun 2 2017
+8202,8202,a687,b2745,Last Young Renegade,All Time Low,Jun 2 2017,Last Young Renegade,All Time Low,Jun 2 2017
+8227,8227,a688,b2743,Two Parts Viper,'68,Jun 2 2017,Two Parts Viper,'68,Jun 2 2017
+8382,8382,a694,b2725,Different Days,The Charlatans UK,May 26 2017,Different Days,The Charlatans,May 26 2017
+8502,8502,a701,b2726,Black Laden Crown,Danzig,May 26 2017,Black Laden Crown,Danzig,May 26 2017
+8542,8542,a703,b2732,Teenage Emotions,Lil Yachty,May 26 2017,Teenage Emotions,Lil Yachty,May 26 2017
+8567,8567,a705,b2723,True to Self,Bryson Tiller,May 26 2017,True to Self,Bryson Tiller,May 26 2017
+8640,8640,a709,b2695,World Be Gone,Erasure,May 19 2017,World Be Gone,Erasure,May 19 2017
+8728,8728,a712,b2699,Modern Kosmology,Jane Weaver,May 19 2017,Modern Kosmology,Jane Weaver,May 19 2017
+8763,8763,a713,b2706,Goths,The Mountain Goats,May 19 2017,Goths,the Mountain Goats,May 19 2017
+8901,8901,a718,b2704,One More Light,Linkin Park,May 19 2017,One More Light,Linkin Park,May 19 2017
+8918,8918,a719,b2693,Stubborn Persistent Illusions,Do Make Say Think,May 19 2017,Stubborn Persistent Illusions,Do Make Say Think,May 19 2017
+8981,8981,a721,b2700,Black Origami,Jlin,May 19 2017,Black Origami,Jlin,May 19 2017
+8999,8999,a722,b2690,Party,Aldous Harding,May 19 2017,Party,Aldous Harding,May 19 2017
+9054,9054,a724,b2689,Shake the Shudder,!!! [Chik Chik Chik],May 19 2017,Shake the Shudder,!!!,May 19 2017
+9117,9117,a726,b2696,The King & I,Faith Evans and the Notorious B.I.G.,May 19 2017,The King & I,Faith Evans and The Notorious B.I.G.,May 19 2017
+9439,9439,a737,b2710,Burials in Several Earths,Radiophonic Workshop,May 19 2017,Burials in Several Earths,Radiophonic Workshop,May 19 2017
+9583,9583,a742,b2714,Neva Left,Snoop Dogg,May 19 2017,Neva Left,Snoop Dogg,May 19 2017
+9632,9632,a744,b2675,A Kind Revolution,Paul Weller,May 12 2017,A Kind Revolution,Paul Weller,May 12 2017
+9646,9646,a745,b2663,Powerplant,Girlpool,May 12 2017,Powerplant,Girlpool,May 12 2017
+9711,9711,a747,b2676,Pageant,Pwr Bttm,May 12 2017,Pageant,PWR BTTM,May 12 2017
+9819,9819,a751,b2680,White Knight,Todd Rundgren,May 12 2017,White Knight,Todd Rundgren,May 12 2017
+9856,9856,a753,b2665,Harry Styles,Harry Styles,May 12 2017,Harry Styles,Harry Styles,May 12 2017
+9899,9899,a754,b2682,Welcome Home,Zac Brown Band,May 12 2017,Welcome Home,Zac Brown Band,May 12 2017
+9917,9917,a755,b2674,After Laughter,Paramore,May 12 2017,After Laughter,Paramore,May 12 2017
+9963,9963,a757,b2668,Common Sense,J Hus,May 12 2017,Common Sense,J Hus,May 12 2017
+10141,10141,a764,b2626,Pollinator,Blondie,May 5 2017,Pollinator,Blondie,May 5 2017
+10196,10196,a765,b2647,The Weather,Pond,May 5 2017,The Weather,Pond,May 5 2017
+10207,10207,a766,b2624,in•ter a•li•a,At the Drive-In,May 5 2017,in•ter a•li•a,At the Drive-In,May 5 2017
+10270,10270,a768,b2619,In Spades,The Afghan Whigs,May 5 2017,In Spades,The Afghan Whigs,May 5 2017
+10335,10335,a769,b2650,Slowdive,Slowdive,May 5 2017,Slowdive,Slowdive,May 5 2017
+10365,10365,a770,b2646,No Shape,Perfume Genius,May 5 2017,No Shape,Perfume Genius,May 5 2017
+10395,10395,a771,b2642,This Old Dog,Mac DeMarco,May 5 2017,This Old Dog,Mac DeMarco,May 5 2017
+10528,10528,a775,b2639,For Crying Out Loud,Kasabian,May 5 2017,For Crying Out Loud,Kasabian,May 5 2017
+10694,10694,a780,b2635,Compassion,Forest Swords,May 5 2017,Compassion,Forest Swords,May 5 2017
+10765,10765,a782,b2638,Halo,Juana Molina,May 5 2017,Halo,Juana Molina,May 5 2017
+10824,10824,a784,b2629,Versus,Carl Craig,May 5 2017,Versus,Carl Craig,May 5 2017
+10862,10862,a785,b2633,Turn Up the Quiet,Diana Krall,May 5 2017,Turn Up the Quiet,Diana Krall,May 5 2017
+11108,11108,a792,b2641,Everybody,Logic,May 5 2017,Everybody,Logic,May 5 2017
+11128,11128,a793,b2627,All the Beauty in This Whole Life,Brother Ali,May 5 2017,All the Beauty in This Whole Life,Brother Ali,May 5 2017
+11262,11262,a797,b2625,Big Walnuts Yonder,Big Walnuts Yonder,May 5 2017,Big Walnuts Yonder,Big Walnuts Yonder,May 5 2017
+11305,11305,a798,b2634,Fresh Air,Faust,May 5 2017,Fresh Air,Faust,May 5 2017
+11390,11390,a800,b2651,TajMo,Taj Mahal,May 5 2017,TajMo,Taj Mahal and Keb' Mo',May 5 2017
+11481,11481,a803,b2606,Gargoyle,Mark Lanegan Band,Apr 28 2017,Gargoyle,Mark Lanegan Band,Apr 28 2017
+11620,11620,a808,b2590,Volume 1,BNQT,Apr 28 2017,Volume 1,BNQT,Apr 28 2017
+11672,11672,a809,b2611,What Now,Sylvan Esso,Apr 28 2017,What Now,Sylvan Esso,Apr 28 2017
+11687,11687,a810,b2595,Pleasure,Feist,Apr 28 2017,Pleasure,Feist,Apr 28 2017
+11720,11720,a811,b2597,Humanz,Gorillaz,Apr 28 2017,Humanz,Gorillaz,Apr 28 2017
+11855,11855,a815,b2608,Visuals,Mew,Apr 28 2017,Visuals,Mew,Apr 28 2017
+11909,11909,a817,b2600,Sad Clowns & Hillbillies,John Mellencamp,Apr 28 2017,Sad Clowns & Hillbillies,John Mellencamp,Apr 28 2017
+11955,11955,a818,b2615,God's Problem Child,Willie Nelson,Apr 28 2017,God's Problem Child,Willie Nelson,Apr 28 2017
+12009,12009,a820,b2607,Strength of a Woman,Mary J. Blige,Apr 28 2017,Strength of a Woman,Mary J. Blige,Apr 28 2017
+12104,12104,a823,b2609,Makes Me Sick,New Found Glory,Apr 28 2017,Makes Me Sick,New Found Glory,Apr 28 2017
+12264,12264,a828,b2614,Shine,Wale,Apr 28 2017,Shine,Wale,Apr 28 2017
+12381,12381,a832,b2571,Be Myself,Sheryl Crow,Apr 21 2017,Be Myself,Sheryl Crow,Apr 21 2017
+12399,12399,a833,b2561,Narkopop,Gas,Apr 21 2017,Narkopop,Gas,Apr 21 2017
+12436,12436,a834,b2570,Robyn Hitchcock,Robyn Hitchcock,Apr 21 2017,Robyn Hitchcock,Robyn Hitchcock,Apr 21 2017
+12491,12491,a836,b2569,Americana,Ray Davies,Apr 21 2017,Americana,Ray Davies,Apr 21 2017
+12501,12501,a837,b2551,Wrangled,Angaleena Presley,Apr 21 2017,Wrangled,Angaleena Presley,Apr 21 2017
+12738,12738,a845,b2564,8,Incubus,Apr 21 2017,8,Incubus,Apr 21 2017
+12777,12777,a846,b2575,You Are We,While She Sleeps,Apr 21 2017,You Are We,While She Sleeps,Apr 21 2017
+12789,12789,a847,b2559,Guppy,Charly Bliss,Apr 21 2017,Guppy,Charly Bliss,Apr 21 2017
+12826,12826,a848,b2568,Novum,Procol Harum,Apr 21 2017,Novum,Procol Harum,Apr 21 2017
+12915,12915,a851,b2573,Jump on Board,Texas,Apr 21 2017,Jump on Board,Texas,Apr 21 2017
+12925,12925,a852,b2555,Love and War,Brad Paisley,Apr 21 2017,Love and War,Brad Paisley,Apr 21 2017
+13037,13037,a856,b2533,Season High,Little Dragon,Apr 14 2017,Season High,Little Dragon,Apr 14 2017
+13116,13116,a861,b2532,DAMN.,Kendrick Lamar,Apr 14 2017,DAMN.,Kendrick Lamar,Apr 14 2017
+13131,13131,a862,b2531,The Search for Everything,John Mayer,Apr 14 2017,The Search for Everything,John Mayer,Apr 14 2017
+13230,13230,a868,b2480,That's Your Lot,Blaenavon,Apr 7 2017,That's Your Lot,Blaenavon,Apr 7 2017
+13541,13541,a874,b2491,Pure Comedy,Father John Misty,Apr 7 2017,Pure Comedy,Father John Misty,Apr 7 2017
+13608,13608,a875,b2508,Whiteout Conditions,The New Pornographers,Apr 7 2017,Whiteout Conditions,The New Pornographers,Apr 7 2017
+13666,13666,a876,b2516,"Sincerely, Future Pollution",Timber Timbre,Apr 7 2017,"Sincerely, Future Pollution",Timber Timbre,Apr 7 2017
+13804,13804,a879,b2504,Hopeless Romantic,Michelle Branch,Apr 7 2017,Hopeless Romantic,Michelle Branch,Apr 7 2017
+13825,13825,a880,b2475,Arca,Arca,Apr 7 2017,Arca,Arca,Apr 7 2017
+13897,13897,a881,b2497,All-Amerikkkan Bada$$,Joey Bada$$,Apr 7 2017,All-Amerikkkan Bada$$,Joey Badass,Apr 7 2017
+13946,13946,a882,b2496,August by Cake,Guided by Voices,Apr 7 2017,August by Cake,Guided by Voices,Apr 7 2017
+14099,14099,a885,b2499,Double Roses,Karen Elson,Apr 7 2017,Double Roses,Karen Elson,Apr 7 2017
+14123,14123,a886,b2473,Belladonna of Sadness,Alexandra Savior,Apr 7 2017,Belladonna of Sadness,Alexandra Savior,Apr 7 2017
+14311,14311,a889,b2511,Belong,San Fermin,Apr 7 2017,Belong,San Fermin,Apr 7 2017
+14329,14329,a890,b2479,Love in the 4th Dimension,The Big Moon,Apr 7 2017,Love in the 4th Dimension,The Big Moon,Apr 7 2017
+14383,14383,a891,b2483,L.A. Divine,Cold War Kids,Apr 7 2017,L.A. Divine,Cold War Kids,Apr 7 2017
+14482,14482,a893,b2482,Death Peak,Clark,Apr 7 2017,Death Peak,Clark,Apr 7 2017
+14571,14571,a894,b2521,The World's Best American Band,White Reaper,Apr 7 2017,The World's Best American Band,White Reaper,Apr 7 2017
+14640,14640,a896,b2490,Coming Home,Falling in Reverse,Apr 7 2017,Coming Home,Falling in Reverse,Apr 7 2017
+14748,14748,a898,b2498,Every Where Is Some Where,K.Flay,Apr 7 2017,Every Where Is Some Where,K.Flay,Apr 7 2017
+14820,14820,a899,b2520,WYW,Wear Your Wounds,Apr 7 2017,WYW,Wear Your Wounds,Apr 7 2017
+15063,15063,a904,b2513,Thunder of the Gods,Sun Ra,Apr 7 2017,Thunder of the Gods,Sun Ra and His Arkestra,Apr 7 2017
+15233,15233,a909,b2438,You Only Live 2wice,Freddie Gibbs,Mar 31 2017,You Only Live 2wice,Freddie Gibbs,Mar 31 2017
+15295,15295,a910,b2461,Close Ties,Rodney Crowell,Mar 31 2017,Close Ties,Rodney Crowell,Mar 31 2017
+15381,15381,a913,b2430,Mental Illness,Aimee Mann,Mar 31 2017,Mental Illness,Aimee Mann,Mar 31 2017
+15430,15430,a914,b2440,Silver Eye,Goldfrapp,Mar 31 2017,Silver Eye,Goldfrapp,Mar 31 2017
+15482,15482,a915,b2453,Emperor of Sand,Mastodon,Mar 31 2017,Emperor of Sand,Mastodon,Mar 31 2017
+15555,15555,a917,b2448,In the Same Room,Julia Holter,Mar 31 2017,In the Same Room,Julia Holter,Mar 31 2017
+15577,15577,a918,b2431,Triplicate,Bob Dylan,Mar 31 2017,Triplicate,Bob Dylan,Mar 31 2017
+15736,15736,a922,b2434,Star Stuff,Chaz Bundick,Mar 31 2017,Star Stuff,Chaz Bundick Meets The Mattson 2,Mar 31 2017
+15774,15774,a923,b2433,Let the Dancers Inherit the Party,British Sea Power,Mar 31 2017,Let the Dancers Inherit the Party,British Sea Power,Mar 31 2017
+15825,15825,a924,b2445,Automaton,Jamiroquai,Mar 31 2017,Automaton,Jamiroquai,Mar 31 2017
+15876,15876,a925,b2457,The Ride,Nelly Furtado,Mar 31 2017,The Ride,Nelly Furtado,Mar 31 2017
+15929,15929,a927,b2432,Bloodlust,Body Count,Mar 31 2017,Bloodlust,Body Count,Mar 31 2017
+16068,16068,a930,b2454,Brand New Day,The Mavericks,Mar 31 2017,Brand New Day,The Mavericks,Mar 31 2017
+16288,16288,a936,b2403,Damage and Joy,The Jesus and Mary Chain,Mar 24 2017,Damage and Joy,The Jesus and Mary Chain,Mar 24 2017
+16351,16351,a938,b2396,We All Want the Same Things,Craig Finn,Mar 24 2017,We All Want the Same Things,Craig Finn,Mar 24 2017
+16411,16411,a939,b2421,Doris & the Daggers,Spiral Stairs,Mar 24 2017,Doris & the Daggers,Spiral Stairs,Mar 24 2017
+16471,16471,a941,b2411,A Crow Looked at Me,Mount Eerie,Mar 24 2017,A Crow Looked at Me,Mount Eerie,Mar 24 2017
+16618,16618,a945,b2418,Joy Comes Back,Ruthie Foster,Mar 24 2017,Joy Comes Back,Ruthie Foster,Mar 24 2017
+16753,16753,a949,b2413,Heartless,Pallbearer,Mar 24 2017,Heartless,Pallbearer,Mar 24 2017
+16865,16865,a952,b2420,From Deewee,Soulwax,Mar 24 2017,From Deewee,Soulwax,Mar 24 2017
+16878,16878,a953,b2398,Grow Up,Desperate Journalist,Mar 24 2017,Grow Up,Desperate Journalist,Mar 24 2017
+16931,16931,a954,b2416,The Wild,Raekwon,Mar 24 2017,The Wild,Raekwon,Mar 24 2017
+16952,16952,a955,b2402,The Afterlove,James Blunt,Mar 24 2017,The Afterlove,James Blunt,Mar 24 2017
+17266,17266,a964,b2401,At What Cost,GoldLink,Mar 24 2017,At What Cost,GoldLink,Mar 24 2017
+17482,17482,a971,b2379,You're Not As _____ As You Think,Sorority Noise,Mar 17 2017,You're Not As _____ As You Think,Sorority Noise,Mar 17 2017
+17490,17490,a972,b2368,Spirit,Depeche Mode,Mar 17 2017,Spirit,Depeche Mode,Mar 17 2017
+17540,17540,a974,b2380,Hot Thoughts,Spoon,Mar 17 2017,Hot Thoughts,Spoon,Mar 17 2017
+17546,17546,a975,b2367,Salutations,Conor Oberst,Mar 17 2017,Salutations,Conor Oberst,Mar 17 2017
+17574,17574,a976,b2376,In Mind,Real Estate,Mar 17 2017,In Mind,Real Estate,Mar 17 2017
+17648,17648,a980,b2374,Obituary,Obituary,Mar 17 2017,Obituary,Obituary,Mar 17 2017
+17670,17670,a981,b2377,Rather You Than Me,Rick Ross,Mar 17 2017,Rather You Than Me,Rick Ross,Mar 17 2017
+17687,17687,a982,b2375,Climate Change,Pitbull,Mar 17 2017,Climate Change,Pitbull,Mar 17 2017
+17714,17714,a983,b2383,So Good,Zara Larsson,Mar 17 2017,So Good,Zara Larsson,Mar 17 2017
+17780,17780,a987,b2334,Millport,Greg Graffin,Mar 10 2017,Millport,Greg Graffin,Mar 10 2017
+17900,17900,a990,b2352,Heartworms,The Shins,Mar 10 2017,Heartworms,The Shins,Mar 10 2017
+17958,17958,a992,b2342,Semper Femina,Laura Marling,Mar 10 2017,Semper Femina,Laura Marling,Mar 10 2017
+17993,17993,a993,b2343,50 Song Memoir,Magnetic Fields,Mar 10 2017,50 Song Memoir,The Magnetic Fields,Mar 10 2017
+18020,18020,a994,b2336,The Navigator,Hurray for the Riff Raff,Mar 10 2017,The Navigator,Hurray for the Riff Raff,Mar 10 2017
+18083,18083,a996,b2331,Godless Prophets & the Migrant Flora,Darkest Hour,Mar 10 2017,Godless Prophets & the Migrant Flora,Darkest Hour,Mar 10 2017
+18124,18124,a997,b2338,Everybody Works,Jay Som,Mar 10 2017,Everybody Works,Jay Som,Mar 10 2017
+18207,18207,a999,b2353,Yours Conditionally,Tennis,Mar 10 2017,Yours Conditionally,Tennis,Mar 10 2017
+18250,18250,a1001,b2328,Black and White Rainbows,Bush,Mar 10 2017,Black and White Rainbows,Bush,Mar 10 2017
+18354,18354,a1004,b2330,Different Creatures,Circa Waves,Mar 10 2017,Different Creatures,Circa Waves,Mar 10 2017
+18544,18544,a1009,b2350,Elektrac,Shobaleader One,Mar 10 2017,Elektrac,Shobaleader One,Mar 10 2017
+18586,18586,a1010,b2358,Packs,Your Old Droog,Mar 10 2017,Packs,Your Old Droog,Mar 10 2017
+18642,18642,a1012,b2346,Captain California,Murs,Mar 10 2017,Captain California,Murs,Mar 10 2017
+19006,19006,a1023,b2313,English Tapas,Sleaford Mods,Mar 3 2017,English Tapas,Sleaford Mods,Mar 3 2017
+19012,19012,a1024,b2294,World Eater,Blanck Mass,Mar 3 2017,World Eater,Blanck Mass,Mar 3 2017
+19069,19069,a1026,b2301,Last Place,Grandaddy,Mar 3 2017,Last Place,Grandaddy,Mar 3 2017
+19107,19107,a1027,b2314,Volcano,Temples,Mar 3 2017,Volcano,Temples,Mar 3 2017
+19159,19159,a1029,b2316,Moh Lhean,Why?,Mar 3 2017,Moh Lhean,Why?,Mar 3 2017
+19328,19328,a1036,b2310,Everything Is Forgotten,Methyl Ethel,Mar 3 2017,Everything Is Forgotten,Methyl Ethel,Mar 3 2017
+19340,19340,a1037,b2297,Freedom Is Free,Chicano Batman,Mar 3 2017,Freedom Is Free,Chicano Batman,Mar 3 2017
+19540,19540,a1044,b2266,Flying Microtonal Banana,King Gizzard & the Lizard Wizard,Feb 24 2017,Flying Microtonal Banana,King Gizzard & the Lizard Wizard,Feb 24 2017
+19580,19580,a1045,b2268,Sick Scenes,Los Campesinos!,Feb 24 2017,Sick Scenes,Los Campesinos!,Feb 24 2017
+19627,19627,a1046,b2277,Why Love Now,Pissed Jeans,Feb 24 2017,Why Love Now,Pissed Jeans,Feb 24 2017
+19643,19643,a1047,b2255,Crystal Fairy,Crystal Fairy,Feb 24 2017,Crystal Fairy,Crystal Fairy,Feb 24 2017
+19724,19724,a1049,b2260,In Between,The Feelies,Feb 24 2017,In Between,The Feelies,Feb 24 2017
+19820,19820,a1051,b2280,Freedom Highway,Rhiannon Giddens,Feb 24 2017,Freedom Highway,Rhiannon Giddens,Feb 24 2017
+19866,19866,a1052,b2288,Forget,Xiu Xiu,Feb 24 2017,Forget,Xiu Xiu,Feb 24 2017
+19929,19929,a1054,b2275,Graveyard Whistling,Old 97's,Feb 24 2017,Graveyard Whistling,Old 97's,Feb 24 2017
+20131,20131,a1059,b2287,Drunk,Thundercat,Feb 24 2017,Drunk,Thundercat,Feb 24 2017
+20204,20204,a1061,b2284,Gang Signs & Prayer,Stormzy,Feb 24 2017,Gang Signs & Prayer,Stormzy,Feb 24 2017
+20574,20574,a1071,b2274,The Iceberg,Oddisee,Feb 24 2017,The Iceberg,Oddisee,Feb 24 2017
+20670,20670,a1074,b2256,Youngish American,Dams of the West,Feb 24 2017,Youngish American,Dams of the West,Feb 24 2017
+20931,20931,a1081,b2247,Dirty Projectors,Dirty Projectors,Feb 21 2017,Dirty Projectors,Dirty Projectors,Feb 21 2017
+20935,20935,a1082,b2248,Rosebudd's Revenge,Roc Marciano,Feb 21 2017,Rosebudd's Revenge,Roc Marciano,Feb 21 2017
+20958,20958,a1083,b2234,Highway Queen,Nikki Lane,Feb 17 2017,Highway Queen,Nikki Lane,Feb 17 2017
+20998,20998,a1084,b2242,Dumb Blood,Vant,Feb 17 2017,Dumb Blood,Vant,Feb 17 2017
+21058,21058,a1086,b2238,Prisoner,Ryan Adams,Feb 17 2017,Prisoner,Ryan Adams,Feb 17 2017
+21072,21072,a1087,b2220,Big Balloon,Dutch Uncles,Feb 17 2017,Big Balloon,Dutch Uncles,Feb 17 2017
+21112,21112,a1088,b2228,Life Will See You Now,Jens Lekman,Feb 17 2017,Life Will See You Now,Jens Lekman,Feb 17 2017
+21219,21219,a1091,b2239,Hard Love,Strand of Oaks,Feb 17 2017,Hard Love,Strand of Oaks,Feb 17 2017
+21312,21312,a1094,b2236,Terrible Human Beings,The Orwells,Feb 17 2017,Terrible Human Beings,The Orwells,Feb 17 2017
+21525,21525,a1101,b2225,Enter the Kingdom,Frontier Ruckus,Feb 17 2017,Enter the Kingdom,Frontier Ruckus,Feb 17 2017
+21558,21558,a1102,b2226,Future,Future,Feb 17 2017,Future,Future,Feb 17 2017
+21737,21737,a1108,b2213,Windy City,Alison Krauss,Feb 17 2017,Windy City,Alison Krauss,Feb 17 2017
+21959,21959,a1114,b2243,Reassemblage,Visible Cloaks,Feb 17 2017,Reassemblage,Visible Cloaks,Feb 17 2017
+21970,21970,a1115,b2222,I'm Only Dreaming,Eisley,Feb 17 2017,I'm Only Dreaming,Eisley,Feb 17 2017
+22042,22042,a1117,b2197,Human,Rag 'n' Bone Man,Feb 10 2017,Human,Rag'n'Bone Man,Feb 10 2017
+22140,22140,a1121,b2187,Memories Are Now,Jesca Hoop,Feb 10 2017,Memories Are Now,Jesca Hoop,Feb 10 2017
+22165,22165,a1122,b2185,Bobby Fuller Died for Your Sins,Chuck Prophet,Feb 10 2017,Bobby Fuller Died for Your Sins,Chuck Prophet,Feb 10 2017
+22567,22567,a1137,b2182,Blackfield V,Blackfield,Feb 10 2017,Blackfield V,Blackfield,Feb 10 2017
+22634,22634,a1139,b2195,The Grinding Wheel,Overkill,Feb 10 2017,The Grinding Wheel,Overkill,Feb 10 2017
+22677,22677,a1141,b2158,Little Fictions,Elbow,Feb 3 2017,Little Fictions,Elbow,Feb 3 2017
+22740,22740,a1143,b2171,Process,Sampha,Feb 3 2017,Process,Sampha,Feb 3 2017
+22817,22817,a1146,b2173,Snowdonia,Surfer Blood,Feb 3 2017,Snowdonia,Surfer Blood,Feb 3 2017
+22836,22836,a1147,b2167,After the Party,The Menzingers,Feb 3 2017,After the Party,The Menzingers,Feb 3 2017
+22923,22923,a1151,b2154,Heavy Fire,Black Star Riders,Feb 3 2017,Heavy Fire,Black Star Riders,Feb 3 2017
+22955,22955,a1152,b2161,Crossover Ministry,Iron Reagan,Feb 3 2017,Crossover Ministry,Iron Reagan,Feb 3 2017
+22979,22979,a1153,b2160,Fresh Air,Homeshake,Feb 3 2017,Fresh Air,Homeshake,Feb 3 2017
+22996,22996,a1154,b2152,I Decided.,Big Sean,Feb 3 2017,I Decided.,Big Sean,Feb 3 2017
+23094,23094,a1157,b2175,Fin,Syd,Feb 3 2017,Fin,Syd,Feb 3 2017
+23160,23160,a1160,b2166,Safe in Sound,Lower Than Atlantis,Feb 3 2017,Safe in Sound,Lower Than Atlantis,Feb 3 2017
+23267,23267,a1164,b2122,Life Without Sound,Cloud Nothings,Jan 27 2017,Life Without Sound,Cloud Nothings,Jan 27 2017
+23432,23432,a1169,b2127,Near to the Wild Heart of Life,Japandroids,Jan 27 2017,Near to the Wild Heart of Life,Japandroids,Jan 27 2017
+23612,23612,a1175,b2115,Tourist in This Town,Allison Crutchfield,Jan 27 2017,Tourist in This Town,Allison Crutchfield,Jan 27 2017
+23731,23731,a1178,b2138,Nothing Feels Natural,Priests,Jan 27 2017,Nothing Feels Natural,Priests,Jan 27 2017
+23850,23850,a1182,b2129,SweetSexySavage,Kehlani,Jan 27 2017,SweetSexySavage,Kehlani,Jan 27 2017
+24108,24108,a1190,b2131,Gods of Violence,Kreator,Jan 27 2017,Gods of Violence,Kreator,Jan 27 2017
+24164,24164,a1192,b2123,All These Countless Nights,Deaf Havana,Jan 27 2017,All These Countless Nights,Deaf Havana,Jan 27 2017
+24530,24530,a1203,b2137,"Chill, Dummy",P.O.S,Jan 27 2017,"Chill, Dummy",P.O.S,Jan 27 2017
+24591,24591,a1205,b2134,Piano Song,Matthew Shipp,Jan 27 2017,Piano Song,Matthew Shipp Trio,Jan 27 2017
+24646,24646,a1207,b2102,Intoxicated Women,Mick Harvey,Jan 20 2017,Intoxicated Women,Mick Harvey,Jan 20 2017
+24682,24682,a1209,b2088,Future Politics,Austra,Jan 20 2017,Future Politics,Austra,Jan 20 2017
+24712,24712,a1210,b2093,Hang,Foxygen,Jan 20 2017,Hang,Foxygen,Jan 20 2017
+24853,24853,a1215,b2109,A Shadow in Time,William Basinski,Jan 20 2017,A Shadow in Time,William Basinski,Jan 20 2017
+24863,24863,a1216,b2094,Modern Ruin,Frank Carter & the Rattlesnakes,Jan 20 2017,Modern Ruin,Frank Carter & The Rattlesnakes,Jan 20 2017
+24933,24933,a1219,b2089,Apocalipstick,Cherry Glazerr,Jan 20 2017,Apocalipstick,Cherry Glazerr,Jan 20 2017
+25019,25019,a1222,b2100,Yesterday's Gone,Loyle Carner,Jan 20 2017,Yesterday's Gone,Loyle Carner,Jan 20 2017
+25188,25188,a1229,b2057,Oczy Mlody,The Flaming Lips,Jan 13 2017,Oczy Mlody,The Flaming Lips,Jan 13 2017
+25237,25237,a1230,b2078,I See You,The xx,Jan 13 2017,I See You,The xx,Jan 13 2017
+25262,25262,a1231,b2075,Rennen,Sohn,Jan 13 2017,Rennen,SOHN,Jan 13 2017
+25301,25301,a1233,b2058,"Gentlewoman, Ruby Man",Flo Morrissey,Jan 13 2017,"Gentlewoman, Ruby Man",Flo Morrissey and Matthew E. White,Jan 13 2017
+25324,25324,a1234,b2053,Migration,Bonobo,Jan 13 2017,Migration,Bonobo,Jan 13 2017
+25401,25401,a1236,b2074,Machine Messiah,Sepultura,Jan 13 2017,Machine Messiah,Sepultura,Jan 13 2017
+25409,25409,a1237,b2054,Forever,Code Orange,Jan 13 2017,Forever,Code Orange,Jan 13 2017
+25488,25488,a1239,b2077,Godfather,Wiley,Jan 13 2017,Godfather,Wiley,Jan 13 2017
+25613,25613,a1244,b2062,Up and Coming,John Abercrombie Quartet,Jan 13 2017,Up and Coming,John Abercrombie Quartet,Jan 13 2017
+25649,25649,a1245,b2070,Feel Your Feelings Fool!,The Regrettes,Jan 13 2017,Feel Your Feelings Fool!,The Regrettes,Jan 13 2017
+25683,25683,a1248,b2044,Youth Is Only Ever Fun in Retrospect,Sundara Karma,Jan 6 2017,Youth Is Only Ever Fun in Retrospect,Sundara Karma,Jan 6 2017
+25688,25688,a1249,b2040,Echolocation,Gone Is Gone,Jan 6 2017,Echolocation,Gone Is Gone,Jan 6 2017
+25702,25702,a1250,b2045,Night People,You Me at Six,Jan 6 2017,Night People,You Me at Six,Jan 6 2017
+25703,25703,a1251,b2029,Reflection,Brian Eno,Jan 1 2017,Reflection,Brian Eno,Jan 1 2017
+25750,25750,a1263,b2006,Do What Thou Wilt.,Ab-Soul,Dec 9 2016,Do What Thou Wilt.,Ab-Soul,Dec 9 2016
+25769,25769,a1264,b2014,Peace Trail,Neil Young,Dec 9 2016,Peace Trail,Neil Young,Dec 9 2016
+25809,25809,a1268,b2010,4 Your Eyez Only,J. Cole,Dec 9 2016,4 Your Eyez Only,J. Cole,Dec 9 2016
+25920,25920,a1277,b2000,Hamburg Demonstrations,Peter Doherty,Dec 2 2016,Hamburg Demonstrations,Pete Doherty,Dec 2 2016
+25931,25931,a1278,b1998,Darkness and Light,John Legend,Dec 2 2016,Darkness and Light,John Legend,Dec 2 2016
+25939,25939,a1279,b1993,"""Awaken, My Love!""",Childish Gambino,Dec 2 2016,"""Awaken, My Love!""",Childish Gambino,Dec 2 2016
+25962,25962,a1280,b2003,The Hamilton Mixtape,Various Artists,Dec 2 2016,The Hamilton Mixtape,Various artists,Dec 2 2016
+25966,25966,a1281,b1994,W:/2016ALBUM/,Deadmau5,Dec 2 2016,W:/2016ALBUM/,deadmau5,Dec 2 2016
+26082,26082,a1292,b1989,Starboy,The Weeknd,Nov 25 2016,Starboy,The Weeknd,Nov 25 2016
+26084,26084,a1293,b1983,Gunslinger,Garth Brooks,Nov 25 2016,Gunslinger,Garth Brooks,Nov 25 2016
+26207,26207,a1304,b1968,Woman,Justice,Nov 18 2016,Woman,Justice,Nov 18 2016
+26254,26254,a1306,b1973,The Weight of These Wings,Miranda Lambert,Nov 18 2016,The Weight of These Wings,Miranda Lambert,Nov 18 2016
+26279,26279,a1307,b1977,An Odd Entrances,Thee Oh Sees,Nov 18 2016,An Odd Entrances,Thee Oh Sees,Nov 18 2016
+26305,26305,a1309,b1961,24K Magic,Bruno Mars,Nov 18 2016,24K Magic,Bruno Mars,Nov 18 2016
+26395,26395,a1313,b1967,The Boy Who Died Wolf,Highly Suspect,Nov 18 2016,The Boy Who Died Wolf,Highly Suspect,Nov 18 2016
+26412,26412,a1314,b1963,DNCE,DNCE,Nov 18 2016,DNCE,DNCE,Nov 18 2016
+26596,26596,a1322,b1949,Jessica Rabbit,Sleigh Bells,Nov 11 2016,Jessica Rabbit,Sleigh Bells,Nov 11 2016
+26621,26621,a1323,b1950,57th & 9th,Sting,Nov 11 2016,57th & 9th,Sting,Nov 11 2016
+26775,26775,a1330,b1936,Long Live the Angels,Emeli Sandé,Nov 11 2016,Long Live the Angels,Emeli Sandé,Nov 11 2016
+27058,27058,a1342,b1931,The Madness of Many,Animals as Leaders,Nov 11 2016,The Madness of Many,Animals as Leaders,Nov 11 2016
+27273,27273,a1350,b1954,Abendrot,You Blew It!,Nov 11 2016,Abendrot,You Blew It!,Nov 11 2016
+27544,27544,a1363,b1905,This House Is Not for Sale,Bon Jovi,Nov 4 2016,This House Is Not for Sale,Bon Jovi,Nov 4 2016
+27591,27591,a1364,b1924,Lodestar,Shirley Collins,Nov 4 2016,Lodestar,Shirley Collins,Nov 4 2016
+27666,27666,a1367,b1915,Eternally Even,Jim James,Nov 4 2016,Eternally Even,Jim James,Nov 4 2016
+27692,27692,a1368,b1913,Until the Hunter,Hope Sandoval & the Warm Inventions,Nov 4 2016,Until the Hunter,Hope Sandoval & the Warm Inventions,Nov 4 2016
+27715,27715,a1369,b1908,Black America Again,Common,Nov 4 2016,Black America Again,Common,Nov 4 2016
+27738,27738,a1370,b1903,Here,Alicia Keys,Nov 4 2016,Here,Alicia Keys,Nov 4 2016
+28077,28077,a1384,b1886,Two Vines,Empire of the Sun,Oct 28 2016,Two Vines,Empire of the Sun,Oct 28 2016
+28137,28137,a1386,b1902,Lady Wood,Tove Lo,Oct 28 2016,Lady Wood,Tove Lo,Oct 28 2016
+28153,28153,a1387,b1896,Can't Touch Us Now,Madness,Oct 28 2016,Can't Touch Us Now,Madness,Oct 28 2016
+28296,28296,a1394,b1885,New Skin,CRX,Oct 28 2016,New Skin,CRX,Oct 28 2016
+28333,28333,a1395,b1900,Brotherhood of the Snake,Testament,Oct 28 2016,Brotherhood of the Snake,Testament,Oct 28 2016
+28411,28411,a1399,b1890,Trap or Die 3,Jeezy,Oct 28 2016,Trap or Die 3,Jeezy,Oct 28 2016
+28453,28453,a1401,b1888,Dead to the World,Helmet,Oct 28 2016,Dead to the World,Helmet,Oct 28 2016
+28512,28512,a1404,b1881,The Stage,Avenged Sevenfold,Oct 28 2016,The Stage,Avenged Sevenfold,Oct 28 2016
+28788,28788,a1416,b1863,The Serenity of Suffering,Korn,Oct 21 2016,The Serenity of Suffering,Korn,Oct 21 2016
+28819,28819,a1417,b1865,You Want It Darker,Leonard Cohen,Oct 21 2016,You Want It Darker,Leonard Cohen,Oct 21 2016
+28876,28876,a1419,b1864,Joanne,Lady Gaga,Oct 21 2016,Joanne,Lady Gaga,Oct 21 2016
+28950,28950,a1422,b1851,Citizen of Glass,Agnes Obel,Oct 21 2016,Citizen of Glass,Agnes Obel,Oct 21 2016
+28998,28998,a1423,b1870,Alone,Pretenders,Oct 21 2016,Alone,The Pretenders,Oct 21 2016
+29041,29041,a1425,b1855,Lighthouse,David Crosby,Oct 21 2016,Lighthouse,David Crosby,Oct 21 2016
+29163,29163,a1429,b1861,Integrity Blues,Jimmy Eat World,Oct 21 2016,Integrity Blues,Jimmy Eat World,Oct 21 2016
+29420,29420,a1438,b1857,Big Baby D.R.A.M.,D.R.A.M.,Oct 21 2016,Big Baby D.R.A.M.,DRAM,Oct 21 2016
+29506,29506,a1441,b1856,The Deaner Album,The Dean Ween Group,Oct 21 2016,The Deaner Album,The Dean Ween Group,Oct 21 2016
+29769,29769,a1450,b1825,Ruminations,Conor Oberst,Oct 14 2016,Ruminations,Conor Oberst,Oct 14 2016
+29864,29864,a1453,b1830,Dissociation,The Dillinger Escape Plan,Oct 14 2016,Dissociation,The Dillinger Escape Plan,Oct 14 2016
+29935,29935,a1455,b1841,Walls,Kings of Leon,Oct 14 2016,Walls,Kings of Leon,Oct 14 2016
+30003,30003,a1457,b1849,Gameshow,Two Door Cinema Club,Oct 14 2016,Gameshow,Two Door Cinema Club,Oct 14 2016
+30178,30178,a1463,b1844,"COW / Chill Out, World!",The Orb,Oct 14 2016,"COW / Chill Out, World!",The Orb,Oct 14 2016
+30572,30572,a1476,b1848,The Wave,Tom Chaplin,Oct 14 2016,The Wave,Tom Chaplin,Oct 14 2016
+30592,30592,a1477,b1838,Mad Love,JoJo,Oct 14 2016,Mad Love,JoJo,Oct 14 2016
+30791,30791,a1484,b1827,Arctic Thunder,Darkthrone,Oct 14 2016,Arctic Thunder,Darkthrone,Oct 14 2016
+30816,30816,a1485,b1822,Arms,Bell X1,Oct 14 2016,Arms,Bell X1,Oct 14 2016
+30920,30920,a1488,b1836,Worry.,Jeff Rosenstock,Oct 14 2016,Worry.,Jeff Rosenstock,Oct 14 2016
+31075,31075,a1493,b1797,Requiem,Goat,Oct 7 2016,Requiem,Goat,Oct 7 2016
+31109,31109,a1494,b1798,Revolution Radio,Green Day,Oct 7 2016,Revolution Radio,Green Day,Oct 7 2016
+31188,31188,a1496,b1811,Three,Phantogram,Oct 7 2016,Three,Phantogram,Oct 7 2016
+31210,31210,a1497,b1800,Stay Together,Kaiser Chiefs,Oct 7 2016,Stay Together,Kaiser Chiefs,Oct 7 2016
+31341,31341,a1501,b1799,Cody,Joyce Manor,Oct 7 2016,Cody,Joyce Manor,Oct 7 2016
+31393,31393,a1502,b1818,Friends,White Lies,Oct 7 2016,Friends,White Lies,Oct 7 2016
+31416,31416,a1503,b1808,Day Breaks,Norah Jones,Oct 7 2016,Day Breaks,Norah Jones,Oct 7 2016
+31458,31458,a1504,b1817,13 Voices,Sum 41,Oct 7 2016,13 Voices,Sum 41,Oct 7 2016
+31460,31460,a1505,b1786,The Last Hero,Alter Bridge,Oct 7 2016,The Last Hero,Alter Bridge,Oct 7 2016
+31528,31528,a1507,b1788,In the Now,Barry Gibb,Oct 7 2016,In the Now,Barry Gibb,Oct 7 2016
+31580,31580,a1508,b1807,First Ditch Effort,NOFX,Oct 7 2016,First Ditch Effort,NOFX,Oct 7 2016
+31630,31630,a1510,b1791,Mothership,Dance Gavin Dance,Oct 7 2016,Mothership,Dance Gavin Dance,Oct 7 2016
+31678,31678,a1511,b1806,The Violent Sleep of Reason,Meshuggah,Oct 7 2016,The Violent Sleep of Reason,Meshuggah,Oct 7 2016
+31715,31715,a1512,b1810,Oh My My,OneRepublic,Oct 7 2016,Oh My My,OneRepublic,Oct 7 2016
+31986,31986,a1689,b1647,Glory,Britney Spears,Aug 26 2016,Glory,Britney Spears,Aug 26 2016
+32015,32015,a1690,b1655,How to Be a Human Being,Glass Animals,Aug 26 2016,How to Be a Human Being,Glass Animals,Aug 26 2016
+32024,32024,a1691,b1643,Between Waves,The Album Leaf,Aug 26 2016,Between Waves,The Album Leaf,Aug 26 2016
+32360,32360,a1707,b1641,Blonde,Frank Ocean,Aug 20 2016,Blonde,Frank Ocean,Aug 20 2016
+32365,32365,a1708,b1631,Endless,Frank Ocean,Aug 19 2016,Endless,Frank Ocean,Aug 19 2016
+32378,32378,a1709,b1630,Furnaces,Ed Harcourt,Aug 19 2016,Furnaces,Ed Harcourt,Aug 19 2016
+32537,32537,a1720,b1635,At Swim,Lisa Hannigan,Aug 19 2016,At Swim,Lisa Hannigan,Aug 19 2016
+32615,32615,a1726,b1629,Amnesty (I),Crystal Castles,Aug 19 2016,Amnesty (I),Crystal Castles,Aug 19 2016
+32840,32840,a1744,b1624,Innocence Reaches,Of Montreal,Aug 12 2016,Innocence Reaches,Of Montreal,Aug 12 2016
+32861,32861,a1748,b1625,Your Wilderness,The Pineapple Thief,Aug 12 2016,Your Wilderness,The Pineapple Thief,Aug 12 2016
+32877,32877,a1751,b1626,Home of the Strange,Young the Giant,Aug 12 2016,Home of the Strange,Young the Giant,Aug 12 2016
+32943,32943,a1763,b1610,Give a Glimpse of What Yer Not,Dinosaur Jr.,Aug 5 2016,Give a Glimpse of What Yer Not,Dinosaur Jr.,Aug 5 2016
+32966,32966,a1764,b1620,Boy King,Wild Beasts,Aug 5 2016,Boy King,Wild Beasts,Aug 5 2016
+33002,33002,a1767,b1617,Guidance,Russian Circles,Aug 5 2016,Guidance,Russian Circles,Aug 5 2016
+33007,33007,a1768,b1609,Blossoms,Blossoms,Aug 5 2016,Blossoms,Blossoms,Aug 5 2016
+33110,33110,a1776,b1608,Morning Report,Arkells,Aug 5 2016,Morning Report,Arkells,Aug 5 2016
+33192,33192,a1782,b1612,Way Down in the Jungle Room,Elvis Presley,Aug 5 2016,Way Down in the Jungle Room,Elvis Presley,Aug 5 2016
+33204,33204,a1783,b1611,Encore,DJ Snake,Aug 5 2016,Encore,DJ Snake,Aug 5 2016
+33219,33219,a1784,b1613,Landlord,Giggs,Aug 5 2016,Landlord,Giggs,Aug 5 2016
+33290,33290,a1790,b1604,For All We Know,nao,Jul 29 2016,For All We Know,Nao,Jul 29 2016
+33312,33312,a1792,b1598,Hypercaffium Spazzinate,Descendents,Jul 29 2016,Hypercaffium Spazzinate,Descendents,Jul 29 2016
+33337,33337,a1794,b1595,Afraid of Heights,Billy Talent,Jul 29 2016,Afraid of Heights,Billy Talent,Jul 29 2016
+33439,33439,a1801,b1599,Major Key,DJ Khaled,Jul 29 2016,Major Key,DJ Khaled,Jul 29 2016
+33560,33560,a1816,b1592,Periphery III: Select Difficulty,Periphery,Jul 22 2016,Periphery III: Select Difficulty,Periphery,Jul 22 2016
+33563,33563,a1817,b1589,Everybody Looking,Gucci Mane,Jul 22 2016,Everybody Looking,Gucci Mane,Jul 22 2016
+33583,33583,a1820,b1591,Lil Durk 2X,Lil Durk,Jul 22 2016,Lil Durk 2X,Lil Durk,Jul 22 2016
+33601,33601,a1824,b1585,Love & Hate,Michael Kiwanuka,Jul 15 2016,Love & Hate,Michael Kiwanuka,Jul 15 2016
+33620,33620,a1827,b1586,We're All Somebody from Somewhere,Steven Tyler,Jul 15 2016,We're All Somebody from Somewhere,Steven Tyler,Jul 15 2016
+33623,33623,a1828,b1583,Youth Authority,Good Charlotte,Jul 15 2016,Youth Authority,Good Charlotte,Jul 15 2016
+33702,33702,a1839,b1568,Wildflower,The Avalanches,Jul 8 2016,Wildflower,The Avalanches,Jul 8 2016
+33724,33724,a1840,b1577,Nothing's Real,Shura,Jul 8 2016,Nothing's Real,Shura,Jul 8 2016
+33735,33735,a1841,b1575,Take Her Up to Monto,Roisin Murphy,Jul 8 2016,Take Her Up to Monto,Róisín Murphy,Jul 8 2016
+33781,33781,a1845,b1569,Ellipsis,Biffy Clyro,Jul 8 2016,Ellipsis,Biffy Clyro,Jul 8 2016
+33840,33840,a1849,b1576,Blank Face LP,ScHoolboy Q,Jul 8 2016,Blank Face LP,Schoolboy Q,Jul 8 2016
+33941,33941,a1857,b1573,Beautiful Broken,Heart,Jul 8 2016,Beautiful Broken,Heart,Jul 8 2016
+33977,33977,a1861,b1555,The Bride,Bat for Lashes,Jul 1 2016,The Bride,Bat for Lashes,Jul 1 2016
+33993,33993,a1862,b1556,California,Blink-182,Jul 1 2016,California,Blink-182,Jul 1 2016
+34031,34031,a1864,b1564,Summer 08,Metronomy,Jul 1 2016,Summer 08,Metronomy,Jul 1 2016
+34092,34092,a1868,b1565,Young in All the Wrong Ways,Sara Watkins,Jul 1 2016,Young in All the Wrong Ways,Sara Watkins,Jul 1 2016
+34177,34177,a1878,b1544,Hot Hot Heat,Hot Hot Heat,Jun 24 2016,Hot Hot Heat,Hot Hot Heat,Jun 24 2016
+34226,34226,a1882,b1549,Mark of the Blade,Whitechapel,Jun 24 2016,Mark of the Blade,Whitechapel,Jun 24 2016
+34250,34250,a1885,b1540,Conscious,Broods,Jun 24 2016,Conscious,Broods,Jun 24 2016
+34275,34275,a1887,b1543,On Desire,Drowners,Jun 24 2016,On Desire,Drowners,Jun 24 2016
+34348,34348,a1894,b1539,Alice Bag,Alice Bag,Jun 24 2016,Alice Bag,Alice Bag,Jun 24 2016
+34360,34360,a1895,b1538,Muzik,Delorean,Jun 22 2016,Muzik,Delorean,Jun 22 2016
+34378,34378,a1897,b1526,The Dreaming Room,Laura Mvula,Jun 17 2016,The Dreaming Room,Laura Mvula,Jun 17 2016
+34409,34409,a1899,b1529,The Getaway,Red Hot Chili Peppers,Jun 17 2016,The Getaway,Red Hot Chili Peppers,Jun 17 2016
+34421,34421,a1900,b1527,Puberty 2,Mitski,Jun 17 2016,Puberty 2,Mitski,Jun 17 2016
+34454,34454,a1902,b1532,The Glowing Man,Swans,Jun 17 2016,The Glowing Man,Swans,Jun 17 2016
+34489,34489,a1905,b1525,On My One,Jake Bugg,Jun 17 2016,On My One,Jake Bugg,Jun 17 2016
+34530,34530,a1908,b1524,Magma,Gojira,Jun 17 2016,Magma,Gojira,Jun 17 2016
+34722,34722,a1921,b1534,Man Machine Poem,The Tragically Hip,Jun 17 2016,Man Machine Poem,The Tragically Hip,Jun 17 2016
+34812,34812,a1927,b1508,Strange Little Birds,Garbage,Jun 10 2016,Strange Little Birds,Garbage,Jun 10 2016
+34825,34825,a1928,b1503,American Tunes,Allen Toussaint,Jun 10 2016,American Tunes,Allen Toussaint,Jun 10 2016
+34909,34909,a1932,b1515,Breakin' Point,Peter Bjorn and John,Jun 10 2016,Breakin' Point,Peter Bjorn and John,Jun 10 2016
+34991,34991,a1937,b1507,Fitz and the Tantrums,Fitz & the Tantrums,Jun 10 2016,Fitz and the Tantrums,Fitz and The Tantrums,Jun 10 2016
+35044,35044,a1940,b1506,Big Day in a Small Town,Brandy Clark,Jun 10 2016,Big Day in a Small Town,Brandy Clark,Jun 10 2016
+35178,35178,a1947,b1514,Last Year Was Complicated,Nick Jonas,Jun 10 2016,Last Year Was Complicated,Nick Jonas,Jun 10 2016
+35238,35238,a1950,b1520,Wrong Crowd,Tom Odell,Jun 10 2016,Wrong Crowd,Tom Odell,Jun 10 2016
+35309,35309,a1954,b1519,Thick as Thieves,The Temper Trap,Jun 10 2016,Thick as Thieves,The Temper Trap,Jun 10 2016
+35326,35326,a1955,b1518,Hollow Bones,Rival Sons,Jun 10 2016,Hollow Bones,Rival Sons,Jun 10 2016
+35560,35560,a1968,b1493,Ash & Ice,The Kills,Jun 3 2016,Ash & Ice,The Kills,Jun 3 2016
+35592,35592,a1970,b1487,Treasure House,Cat's Eyes,Jun 3 2016,Treasure House,Cat's Eyes,Jun 3 2016
+35679,35679,a1974,b1498,Stranger to Stranger,Paul Simon,Jun 3 2016,Stranger to Stranger,Paul Simon,Jun 3 2016
+35708,35708,a1976,b1489,Monolith of Phobos,The Claypool Lennon Delirium,Jun 3 2016,Monolith of Phobos,The Claypool Lennon Delirium,Jun 3 2016
+35827,35827,a1982,b1494,Wild Things,Ladyhawke,Jun 3 2016,Wild Things,Ladyhawke,Jun 3 2016
+35837,35837,a1983,b1485,Aggressive,Beartooth,Jun 3 2016,Aggressive,Beartooth,Jun 3 2016
+35916,35916,a1987,b1488,Faraway Reach,Classixx,Jun 3 2016,Faraway Reach,Classixx,Jun 3 2016
+36051,36051,a1994,b1490,Open Book,Fatherson,Jun 3 2016,Open Book,Fatherson,Jun 3 2016
+36122,36122,a1998,b1465,All Our Gods Have Abandoned Us,Architects,May 27 2016,All Our Gods Have Abandoned Us,Architects,May 27 2016
+36164,36164,a2000,b1467,Kidsticks,Beth Orton,May 27 2016,Kidsticks,Beth Orton,May 27 2016
+36233,36233,a2003,b1476,Good Luck and Do Your Best,Gold Panda,May 27 2016,Good Luck and Do Your Best,Gold Panda,May 27 2016
+36263,36263,a2005,b1466,By Default,Band of Skulls,May 27 2016,By Default,Band of Skulls,May 27 2016
+36326,36326,a2008,b1469,The Ride,Catfish & the Bottlemen,May 27 2016,The Ride,Catfish and the Bottlemen,May 27 2016
+36400,36400,a2011,b1483,To Be Everywhere Is to Be Nowhere,Thrice,May 27 2016,To Be Everywhere Is to Be Nowhere,Thrice,May 27 2016
+36417,36417,a2012,b1480,Everything's Beautiful,Robert Glasper,May 27 2016,Everything's Beautiful,Robert Glasper / Miles Davis,May 27 2016
+36470,36470,a2015,b1473,27-Jul,Fifth Harmony,May 27 2016,27-Jul,Fifth Harmony,May 27 2016
+36511,36511,a2017,b1474,Skin,Flume,May 27 2016,Skin,Flume,May 27 2016
+36807,36807,a2032,b1470,Stranger Things Have Happened,Clare Maguire,May 27 2016,Stranger Things Have Happened,Clare Maguire,May 27 2016
+36879,36879,a2035,b1455,2,Mudcrutch,May 20 2016,2,Mudcrutch,May 20 2016
+36946,36946,a2038,b1456,The Triad,Pantha du Prince,May 20 2016,The Triad,Pantha du Prince,May 20 2016
+36966,36966,a2039,b1454,Strangers,Marissa Nadler,May 20 2016,Strangers,Marissa Nadler,May 20 2016
+36981,36981,a2040,b1447,I Still Do,Eric Clapton,May 20 2016,I Still Do,Eric Clapton,May 20 2016
+37000,37000,a2041,b1444,Fallen Angels,Bob Dylan,May 20 2016,Fallen Angels,Bob Dylan,May 20 2016
+37024,37024,a2042,b1446,Teens of Denial,Car Seat Headrest,May 20 2016,Teens of Denial,Car Seat Headrest,May 20 2016
+37057,37057,a2043,b1457,These People,Richard Ashcroft,May 20 2016,These People,Richard Ashcroft,May 20 2016
+37152,37152,a2048,b1442,Dangerous Woman,Ariana Grande,May 20 2016,Dangerous Woman,Ariana Grande,May 20 2016
+37287,37287,a2054,b1445,Mayday,Boys Noize,May 20 2016,Mayday,Boys Noize,May 20 2016
+37515,37515,a2069,b1433,Oh No,Jessy Lanza,May 13 2016,Oh No,Jessy Lanza,May 13 2016
+37594,37594,a2074,b1437,Holy Ghost,Modern Baseball,May 13 2016,Holy Ghost,Modern Baseball,May 13 2016
+37608,37608,a2075,b1436,Thank You,Meghan Trainor,May 13 2016,Thank You,Meghan Trainor,May 13 2016
+37649,37649,a2078,b1432,The Concrete Confessional,Hatebreed,May 13 2016,The Concrete Confessional,Hatebreed,May 13 2016
+37667,37667,a2079,b1435,Cloud Nine,Kygo,May 13 2016,Cloud Nine,Kygo,May 13 2016
+37700,37700,a2081,b1438,Misadventures,Pierce the Veil,May 13 2016,Misadventures,Pierce the Veil,May 13 2016
+37711,37711,a2082,b1434,Nattesferd,Kvelertak,May 13 2016,Nattesferd,Kvelertak,May 13 2016
+37896,37896,a2095,b1423,A Moon Shaped Pool,Radiohead,May 8 2016,A Moon Shaped Pool,Radiohead,May 8 2016
+37901,37901,a2096,b1405,Detour,Cyndi Lauper,May 6 2016,Detour,Cyndi Lauper,May 6 2016
+37968,37968,a2099,b1406,Bottomless Pit,Death Grips,May 6 2016,Bottomless Pit,Death Grips,May 6 2016
+38006,38006,a2100,b1422,Paradise,White Lung,May 6 2016,Paradise,White Lung,May 6 2016
+38017,38017,a2101,b1411,Will,Julianna Barwick,May 6 2016,Will,Julianna Barwick,May 6 2016
+38029,38029,a2102,b1401,Hopelessness,Anohni,May 6 2016,Hopelessness,Anohni,May 6 2016
+38063,38063,a2103,b1413,99.90%,Kaytranada,May 6 2016,99.90%,Kaytranada,May 6 2016
+38394,38394,a2118,b1414,Ripcord,Keith Urban,May 6 2016,Ripcord,Keith Urban,May 6 2016
+38462,38462,a2121,b1416,The Unity Sessions,Pat Metheny,May 6 2016,The Unity Sessions,Pat Metheny,May 6 2016
+38624,38624,a2131,b1383,The Ship,Brian Eno,Apr 29 2016,The Ship,Brian Eno,Apr 29 2016
+38799,38799,a2140,b1396,Everything at Once,Travis,Apr 29 2016,Everything at Once,Travis,Apr 29 2016
+39018,39018,a2153,b1380,Lemonade,Beyoncé,Apr 23 2016,Lemonade,Beyoncé,Apr 23 2016
+39080,39080,a2160,b1371,Always Strive and Prosper,A$AP Ferg,Apr 22 2016,Always Strive and Prosper,ASAP Ferg,Apr 22 2016
+39103,39103,a2162,b1374,Asphalt for Eden,Dälek,Apr 22 2016,Asphalt for Eden,Dälek,Apr 22 2016
+39205,39205,a2172,b1365,A Sailor's Guide to Earth,Sturgill Simpson,Apr 15 2016,A Sailor's Guide to Earth,Sturgill Simpson,Apr 15 2016
+39292,39292,a2177,b1362,The Hope Six Demolition Project,PJ Harvey,Apr 15 2016,The Hope Six Demolition Project,PJ Harvey,Apr 15 2016
+39301,39301,a2178,b1353,Crab Day,Cate Le Bon,Apr 15 2016,Crab Day,Cate Le Bon,Apr 15 2016
+39386,39386,a2182,b1366,Hold/Still,Suuns,Apr 15 2016,Hold/Still,Suuns,Apr 15 2016
+39402,39402,a2183,b1364,Santana IV,Santana,Apr 15 2016,Santana IV,Santana,Apr 15 2016
+39606,39606,a2195,b1352,Material,Blaqk Audio,Apr 15 2016,Material,Blaqk Audio,Apr 15 2016
+39648,39648,a2197,b1343,Junk,M83,Apr 8 2016,Junk,M83,Apr 8 2016
+39658,39658,a2198,b1337,Gore,Deftones,Apr 8 2016,Gore,Deftones,Apr 8 2016
+39675,39675,a2199,b1338,Painting of a Panic Attack,Frightened Rabbit,Apr 8 2016,Painting of a Panic Attack,Frightened Rabbit,Apr 8 2016
+39717,39717,a2201,b1348,Love Streams,Tim Hecker,Apr 8 2016,Love Streams,Tim Hecker,Apr 8 2016
+39727,39727,a2202,b1342,Cleopatra,The Lumineers,Apr 8 2016,Cleopatra,The Lumineers,Apr 8 2016
+39753,39753,a2204,b1336,Call It What It Is,Ben Harper & the Innocent Criminals,Apr 8 2016,Call It What It Is,Ben Harper & The Innocent Criminals,Apr 8 2016
+39793,39793,a2206,b1344,Man About Town,Mayer Hawthorne,Apr 8 2016,Man About Town,Mayer Hawthorne,Apr 8 2016
+39812,39812,a2207,b1347,Brilliant Sanity,Teleman,Apr 8 2016,Brilliant Sanity,Teleman,Apr 8 2016
+39847,39847,a2210,b1334,Red Flag,All Saints,Apr 8 2016,Red Flag,All Saints,Apr 8 2016
+40022,40022,a2221,b1332,Ology,Gallant,Apr 6 2016,Ology,Gallant,Apr 6 2016
+40114,40114,a2225,b1323,III,Moderat,Apr 1 2016,III,Moderat,Apr 1 2016
+40186,40186,a2228,b1320,Everything You've Come to Expect,The Last Shadow Puppets,Apr 1 2016,Everything You've Come to Expect,The Last Shadow Puppets,Apr 1 2016
+40217,40217,a2229,b1326,Super,Pet Shop Boys,Apr 1 2016,Super,Pet Shop Boys,Apr 1 2016
+40252,40252,a2231,b1311,Azel,Bombino,Apr 1 2016,Azel,Bombino,Apr 1 2016
+40297,40297,a2232,b1331,Amen & Goodbye,Yeasayer,Apr 1 2016,Amen & Goodbye,Yeasayer,Apr 1 2016
+40304,40304,a2233,b1313,"Bang, Zoom, Crazy... Hello",Cheap Trick,Apr 1 2016,"Bang, Zoom, Crazy... Hello",Cheap Trick,Apr 1 2016
+40323,40323,a2234,b1307,Are You Serious,Andrew Bird,Apr 1 2016,Are You Serious,Andrew Bird,Apr 1 2016
+40474,40474,a2240,b1308,Pussy's Dead,Autolux,Apr 1 2016,Pussy's Dead,Autolux,Apr 1 2016
+40512,40512,a2241,b1321,Empire Builder,Laura Gibson,Apr 1 2016,Empire Builder,Laura Gibson,Apr 1 2016
+40526,40526,a2242,b1310,Kentucky,Black Stone Cherry,Apr 1 2016,Kentucky,Black Stone Cherry,Apr 1 2016
+40618,40618,a2245,b1327,Stories for Monday,The Summer Set,Apr 1 2016,Stories for Monday,The Summer Set,Apr 1 2016
+40663,40663,a2247,b1322,Lukas Graham,Lukas Graham,Apr 1 2016,Lukas Graham,Lukas Graham,Apr 1 2016
+40675,40675,a2248,b1309,Metal Resistance,Babymetal,Apr 1 2016,Metal Resistance,Babymetal,Apr 1 2016
+41085,41085,a2264,b1319,Bacteria Cult,Kaada/Patton,Apr 1 2016,Bacteria Cult,Kaada/Patton,Apr 1 2016
+41177,41177,a2270,b1295,Patch the Sky,Bob Mould,Mar 25 2016,Patch the Sky,Bob Mould,Mar 25 2016
+41242,41242,a2274,b1300,Hitch,The Joy Formidable,Mar 25 2016,Hitch,The Joy Formidable,Mar 25 2016
+41292,41292,a2277,b1305,Mind of Mine,ZAYN,Mar 25 2016,Mind of Mine,Zayn,Mar 25 2016
+41338,41338,a2281,b1291,Jomsviking,Amon Amarth,Mar 25 2016,Jomsviking,Amon Amarth,Mar 25 2016
+41415,41415,a2286,b1293,The Black,Asking Alexandria,Mar 25 2016,The Black,Asking Alexandria,Mar 25 2016
+41431,41431,a2287,b1294,Beautiful Lies,Birdy,Mar 25 2016,Beautiful Lies,Birdy,Mar 25 2016
+41453,41453,a2288,b1301,More Issues Than Vogue,K. Michelle,Mar 25 2016,More Issues Than Vogue,K. Michelle,Mar 25 2016
+41500,41500,a2291,b1303,XI,Metal Church,Mar 25 2016,XI,Metal Church,Mar 25 2016
+41566,41566,a2297,b1285,Chaosmosis,Primal Scream,Mar 18 2016,Chaosmosis,Primal Scream,Mar 18 2016
+41578,41578,a2298,b1284,Girl at the End of the World,James,Mar 18 2016,Girl at the End of the World,James,Mar 18 2016
+41608,41608,a2300,b1288,"Barbara Barbara, We Face a Shining Future",Underworld,Mar 18 2016,"Barbara Barbara, We Face a Shining Future",Underworld,Mar 18 2016
+41681,41681,a2306,b1283,Post Pop Depression,Iggy Pop,Mar 18 2016,Post Pop Depression,Iggy Pop,Mar 18 2016
+41692,41692,a2307,b1281,This Is What the Truth Feels Like,Gwen Stefani,Mar 18 2016,This Is What the Truth Feels Like,Gwen Stefani,Mar 18 2016
+42009,42009,a2331,b1275,Incarnate,Killswitch Engage,Mar 11 2016,Incarnate,Killswitch Engage,Mar 11 2016
+42029,42029,a2333,b1273,Second Love,Emmy the Great,Mar 11 2016,Second Love,Emmy the Great,Mar 11 2016
+42049,42049,a2335,b1271,Painkillers,Brian Fallon,Mar 11 2016,Painkillers,Brian Fallon,Mar 11 2016
+42091,42091,a2339,b1269,All My Demons Greeting Me as a Friend,Aurora,Mar 11 2016,All My Demons Greeting Me as a Friend,AURORA,Mar 11 2016
+42109,42109,a2340,b1276,Telluric,Matt Corby,Mar 11 2016,Telluric,Matt Corby,Mar 11 2016
+42111,42111,a2341,b1267,Us and the Night,3 Doors Down,Mar 11 2016,Us and the Night,3 Doors Down,Mar 11 2016
+42275,42275,a2353,b1252,untitled unmastered.,Kendrick Lamar,Mar 4 2016,untitled unmastered.,Kendrick Lamar,Mar 4 2016
+42350,42350,a2357,b1255,iii,Miike Snow,Mar 4 2016,iii,Miike Snow,Mar 4 2016
+42388,42388,a2359,b1257,United Crushers,Poliça,Mar 4 2016,United Crushers,Poliça,Mar 4 2016
+42483,42483,a2364,b1262,A Man Alive,Thao & the Get Down Stay Down,Mar 4 2016,A Man Alive,Thao & the Get Down Stay Down,Mar 4 2016
+42504,42504,a2365,b1265,We Can Do Anything,Violent Femmes,Mar 4 2016,We Can Do Anything,Violent Femmes,Mar 4 2016
+42529,42529,a2367,b1254,Long Way Home,Låpsley,Mar 4 2016,Long Way Home,Låpsley,Mar 4 2016
+42543,42543,a2368,b1250,Emily's D+Evolution,Esperanza Spalding,Mar 4 2016,Emily's D+Evolution,Esperanza Spalding,Mar 4 2016
+42574,42574,a2369,b1263,Limitless,Tonight Alive,Mar 4 2016,Limitless,Tonight Alive,Mar 4 2016
+42606,42606,a2371,b1259,Ouroboros,Ray LaMontagne,Mar 4 2016,Ouroboros,Ray LaMontagne,Mar 4 2016
+43021,43021,a2393,b1229,Dig in Deep,Bonnie Raitt,Feb 26 2016,Dig in Deep,Bonnie Raitt,Feb 26 2016
+43053,43053,a2394,b1239,SVIIB,School of Seven Bells,Feb 26 2016,SVIIB,School of Seven Bells,Feb 26 2016
+43106,43106,a2397,b1226,For All Kings,Anthrax,Feb 26 2016,For All Kings,Anthrax,Feb 26 2016
+43146,43146,a2398,b1244,Stranger Things,Yuck,Feb 26 2016,Stranger Things,Yuck,Feb 26 2016
+43255,43255,a2403,b1243,Summertime: Willie Nelson Sings Gershwin,Willie Nelson,Feb 26 2016,Summertime: Willie Nelson Sings Gershwin,Willie Nelson,Feb 26 2016
+43356,43356,a2408,b1234,This Unruly Mess I've Made,Macklemore & Ryan Lewis,Feb 26 2016,This Unruly Mess I've Made,Macklemore & Ryan Lewis,Feb 26 2016
+43547,43547,a2417,b1227,Anvil Is Anvil,Anvil,Feb 26 2016,Anvil Is Anvil,Anvil,Feb 26 2016
+43583,43583,a2418,b1241,Charlene,Tweet,Feb 26 2016,Charlene,Tweet,Feb 26 2016
+43616,43616,a2420,b1214,Side Pony,Lake Street Dive,Feb 19 2016,Side Pony,Lake Street Dive,Feb 19 2016
+43707,43707,a2426,b1209,Painting With,Animal Collective,Feb 19 2016,Painting With,Animal Collective,Feb 19 2016
+43762,43762,a2429,b1216,Livin' on a High Note,Mavis Staples,Feb 19 2016,Livin' on a High Note,Mavis Staples,Feb 19 2016
+43847,43847,a2434,b1221,Victorious,Wolfmother,Feb 19 2016,Victorious,Wolfmother,Feb 19 2016
+43870,43870,a2436,b1212,Phase,Jack Garratt,Feb 19 2016,Phase,Jack Garratt,Feb 19 2016
+43907,43907,a2438,b1217,Need Your Light,Ra Ra Riot,Feb 19 2016,Need Your Light,Ra Ra Riot,Feb 19 2016
+43933,43933,a2440,b1211,Banshee,The Cave Singers,Feb 19 2016,Banshee,The Cave Singers,Feb 19 2016
+44012,44012,a2445,b1210,In My Mind,BJ the Chicago Kid,Feb 19 2016,In My Mind,BJ the Chicago Kid,Feb 19 2016
+44162,44162,a2455,b1195,Synesthetica,Radiation City,Feb 12 2016,Synesthetica,Radiation City,Feb 12 2016
+44191,44191,a2457,b1194,Cardinal,Pinegrove,Feb 12 2016,Cardinal,Pinegrove,Feb 12 2016
+44219,44219,a2459,b1192,My Wild West,Lissie,Feb 12 2016,My Wild West,Lissie,Feb 12 2016
+44258,44258,a2462,b1186,Good Advice,Basia Bulat,Feb 12 2016,Good Advice,Basia Bulat,Feb 12 2016
+44361,44361,a2468,b1199,Wynonna & the Big Noise,Wynonna & The Big Noise,Feb 12 2016,Wynonna & the Big Noise,Wynonna & the Big Noise,Feb 12 2016
+44476,44476,a2477,b1170,Is the Is Are,DIIV,Feb 5 2016,Is the Is Are,DIIV,Feb 5 2016
+44498,44498,a2478,b1173,Commontime,Field Music,Feb 5 2016,Commontime,Field Music,Feb 5 2016
+44515,44515,a2479,b1171,Wonderful Crazy Night,Elton John,Feb 5 2016,Wonderful Crazy Night,Elton John,Feb 5 2016
+44634,44634,a2485,b1176,Big Black Coat,Junior Boys,Feb 5 2016,Big Black Coat,Junior Boys,Feb 5 2016
+44709,44709,a2489,b1175,All I Need,Foxes,Feb 5 2016,All I Need,Foxes,Feb 5 2016
+44828,44828,a2495,b1180,Majid Jordan,Majid Jordan,Feb 5 2016,Majid Jordan,Majid Jordan,Feb 5 2016
+44890,44890,a2498,b1185,Khalifa,Wiz Khalifa,Feb 5 2016,Khalifa,Wiz Khalifa,Feb 5 2016
+44915,44915,a2500,b1172,Opus,Eric Prydz,Feb 5 2016,Opus,Eric Prydz,Feb 5 2016
+44940,44940,a2501,b1178,Begin,Lion Babe,Feb 5 2016,Begin,Lion Babe,Feb 5 2016
+45014,45014,a2505,b1146,Nine Track Mind,Charlie Puth,Jan 29 2016,Nine Track Mind,Charlie Puth,Jan 29 2016
+45063,45063,a2507,b1143,Hymns,Bloc Party,Jan 29 2016,Hymns,Bloc Party,Jan 29 2016
+45097,45097,a2508,b1151,Suicide Songs,MONEY,Jan 29 2016,Suicide Songs,Money,Jan 29 2016
+45127,45127,a2509,b1155,This Is Acting,Sia,Jan 29 2016,This Is Acting,Sia,Jan 29 2016
+45158,45158,a2510,b1160,Don't You,Wet,Jan 29 2016,Don't You,Wet,Jan 29 2016
+45202,45202,a2512,b1152,Who Sold My Generation,Night Beats,Jan 29 2016,Who Sold My Generation,Night Beats,Jan 29 2016
+45235,45235,a2513,b1159,Lost Property,Turin Brakes,Jan 29 2016,Lost Property,Turin Brakes,Jan 29 2016
+45353,45353,a2518,b1147,The Astonishing,Dream Theater,Jan 29 2016,The Astonishing,Dream Theater,Jan 29 2016
+45389,45389,a2519,b1157,Let Me Get By,Tedeschi Trucks Band,Jan 29 2016,Let Me Get By,Tedeschi Trucks Band,Jan 29 2016
+45424,45424,a2521,b1140,Promise Everything,Basement,Jan 29 2016,Promise Everything,Basement,Jan 29 2016
+45537,45537,a2525,b1149,Islah,Kevin Gates,Jan 29 2016,Islah,Kevin Gates,Jan 29 2016
+45556,45556,a2526,b1142,Pillars of Ash,Black Tusk,Jan 29 2016,Pillars of Ash,Black Tusk,Jan 29 2016
+45596,45596,a2527,b1156,Matter,St. Lucia,Jan 29 2016,Matter,St. Lucia,Jan 29 2016
+45758,45758,a2535,b1122,Adore Life,Savages,Jan 22 2016,Adore Life,Savages,Jan 22 2016
+45781,45781,a2536,b1114,M:FANS,John Cale,Jan 22 2016,M:FANS,John Cale,Jan 22 2016
+45809,45809,a2537,b1111,New View,Eleanor Friedberger,Jan 22 2016,New View,Eleanor Friedberger,Jan 22 2016
+45857,45857,a2538,b1128,Night Thoughts,Suede,Jan 22 2016,Night Thoughts,Suede,Jan 22 2016
+45893,45893,a2539,b1133,Emotional Mugger,Ty Segall,Jan 22 2016,Emotional Mugger,Ty Segall,Jan 22 2016
+45922,45922,a2540,b1131,The Catastrophist,Tortoise,Jan 22 2016,The Catastrophist,Tortoise,Jan 22 2016
+45952,45952,a2541,b1130,The Waiting Room,Tindersticks,Jan 22 2016,The Waiting Room,Tindersticks,Jan 22 2016
+45958,45958,a2542,b1105,Each Other,Aidan Knight,Jan 22 2016,Each Other,Aidan Knight,Jan 22 2016
+46021,46021,a2544,b1106,A Coliseum Complex Museum,The Besnard Lakes,Jan 22 2016,A Coliseum Complex Museum,The Besnard Lakes,Jan 22 2016
+46142,46142,a2547,b1134,ATGCLVLSSCAP,Ulver,Jan 22 2016,ATGCLVLSSCAP,Ulver,Jan 22 2016
+46149,46149,a2548,b1110,Original Machines,Conrad Keely,Jan 22 2016,Original Machines,Conrad Keely,Jan 22 2016
+46187,46187,a2549,b1117,Dystopia,Megadeth,Jan 22 2016,Dystopia,Megadeth,Jan 22 2016
+46209,46209,a2550,b1108,Moth,Chairlift,Jan 22 2016,Moth,Chairlift,Jan 22 2016
+46419,46419,a2556,b1132,Skilled Mechanics,Tricky,Jan 22 2016,Skilled Mechanics,Tricky,Jan 22 2016
+46484,46484,a2559,b1104,Something About April II,Adrian Younge,Jan 22 2016,Something About April II,Adrian Younge,Jan 22 2016
+46679,46679,a2565,b1113,Perfect,Half Japanese,Jan 22 2016,Perfect,Half Japanese,Jan 22 2016
+46881,46881,a2573,b1098,Death of a Bachelor,Panic! At the Disco,Jan 15 2016,Death of a Bachelor,Panic! at the Disco,Jan 15 2016
+46907,46907,a2575,b1094,Not to Disappear,Daughter,Jan 15 2016,Not to Disappear,Daughter,Jan 15 2016
+46961,46961,a2579,b1088,Malibu,Anderson Paak,Jan 15 2016,Malibu,Anderson .Paak,Jan 15 2016
+47024,47024,a2583,b1091,Pawn Shop,Brothers Osborne,Jan 15 2016,Pawn Shop,Brothers Osborne,Jan 15 2016
+47049,47049,a2584,b1101,Anarchytecture,Skunk Anansie,Jan 15 2016,Anarchytecture,Skunk Anansie,Jan 15 2016
+47104,47104,a2588,b1096,It's About Time,"Hank Williams, Jr.",Jan 15 2016,It's About Time,"Hank Williams, Jr.",Jan 15 2016
+47111,47111,a2589,b1081,Blackstar,David Bowie,Jan 8 2016,Blackstar,David Bowie,Jan 8 2016
+47119,47119,a2590,b1082,Leave Me Alone,Hinds,Jan 8 2016,Leave Me Alone,Hinds,Jan 8 2016
+47131,47131,a2591,b1087,Where Have You Been All My Life?,Villagers,Jan 8 2016,Where Have You Been All My Life?,Villagers,Jan 8 2016
+47140,47140,a2593,b1079,Wildfire,Rachel Platten,Jan 1 2016,Wildfire,Rachel Platten,Jan 1 2016
+47141,47141,a2594,b1078,In My Feelings (Goin' Thru It),Boosie Badazz,Jan 1 2016,In My Feelings (Goin' Thru It),Boosie Badazz,Jan 1 2016
+47154,47154,a2596,b1067,Purple,Baroness,Dec 18 2015,Purple,Baroness,Dec 18 2015
+47176,47176,a2598,b1069,Tell Me I'm Pretty,Cage the Elephant,Dec 18 2015,Tell Me I'm Pretty,Cage the Elephant,Dec 18 2015
+47197,47197,a2600,b1070,Royalty,Chris Brown,Dec 18 2015,Royalty,Chris Brown,Dec 18 2015
+47242,47242,a2607,b1063,The Buffet,R. Kelly,Dec 11 2015,The Buffet,R. Kelly,Dec 11 2015
+47287,47287,a2615,b1048,A Head Full of Dreams,Coldplay,Dec 4 2015,A Head Full of Dreams,Coldplay,Dec 4 2015
+47310,47310,a2617,b1047,Return of the Tender Lover,Babyface,Dec 4 2015,Return of the Tender Lover,Babyface,Dec 4 2015
+47354,47354,a2620,b1055,Black Market,Rick Ross,Dec 4 2015,Black Market,Rick Ross,Dec 4 2015
+47373,47373,a2622,b1050,When It's Dark Out,G-Eazy,Dec 4 2015,When It's Dark Out,G-Eazy,Dec 4 2015
+47405,47405,a2624,b1058,Blue Neighbourhood,Troye Sivan,Dec 4 2015,Blue Neighbourhood,Troye Sivan,Dec 4 2015
+47450,47450,a2632,b1042,Skeletons,Danzig,Nov 27 2015,Skeletons,Danzig,Nov 27 2015
+47512,47512,a2644,b1029,25,Adele,Nov 20 2015,25,Adele,Nov 20 2015
+47523,47523,a2645,b1032,Shadow of a Doubt,Freddie Gibbs,Nov 20 2015,Shadow of a Doubt,Freddie Gibbs,Nov 20 2015
+47546,47546,a2648,b1031,Dark Sky Island,Enya,Nov 20 2015,Dark Sky Island,Enya,Nov 20 2015
+47663,47663,a2659,b1014,Alone in the Universe,Jeff Lynne's ELO,Nov 13 2015,Alone in the Universe,Jeff Lynne's ELO,Nov 13 2015
+47772,47772,a2664,b1023,Garden of Delete,Oneohtrix Point Never,Nov 13 2015,Garden of Delete,Oneohtrix Point Never,Nov 13 2015
+47811,47811,a2666,b1022,Made in the A.M.,One Direction,Nov 13 2015,Made in the A.M.,One Direction,Nov 13 2015
+47825,47825,a2667,b1016,Purpose,Justin Bieber,Nov 13 2015,Purpose,Justin Bieber,Nov 13 2015
+47895,47895,a2670,b1026,Free TC,Ty Dolla $ign,Nov 13 2015,Free TC,Ty Dolla $ign,Nov 13 2015
+47901,47901,a2671,b1012,First Comes the Night,Chris Isaak,Nov 13 2015,First Comes the Night,Chris Isaak,Nov 13 2015
+47957,47957,a2674,b1008,The Miraculous,Anna von Hausswolff,Nov 13 2015,The Miraculous,Anna von Hausswolff,Nov 13 2015
+48067,48067,a2679,b1018,Kylie Christmas,Kylie Minogue,Nov 13 2015,Kylie Christmas,Kylie Minogue,Nov 13 2015
+48089,48089,a2680,b1020,The Incredible True Story,Logic,Nov 13 2015,The Incredible True Story,Logic,Nov 13 2015
+48364,48364,a2694,b986,Perfectamundo,Billy Gibbons & the BFG's,Nov 6 2015,Perfectamundo,Billy Gibbons and the BFG's,Nov 6 2015
+48441,48441,a2697,b997,Nothing,Kode9,Nov 6 2015,Nothing,Kode9,Nov 6 2015
+48460,48460,a2698,b994,Making Time,Jamie Woon,Nov 6 2015,Making Time,Jamie Woon,Nov 6 2015
+48501,48501,a2700,b991,Delirium,Ellie Goulding,Nov 6 2015,Delirium,Ellie Goulding,Nov 6 2015
+48532,48532,a2701,b1000,Get Weird,Little Mix,Nov 6 2015,Get Weird,Little Mix,Nov 6 2015
+48608,48608,a2705,b988,Vulnicura Strings,Björk,Nov 6 2015,Vulnicura Strings,Björk,Nov 6 2015
+48660,48660,a2707,b996,One,Kate Boy,Nov 6 2015,One,Kate Boy,Nov 6 2015
+48691,48691,a2708,b1005,Damn Country Music,Tim McGraw,Nov 6 2015,Damn Country Music,Tim McGraw,Nov 6 2015
+48780,48780,a2714,b983,Mr. Misunderstood,Eric Church,Nov 3 2015,Mr. Misunderstood,Eric Church,Nov 3 2015
+48793,48793,a2716,b977,Money Shot,Puscifer,Oct 30 2015,Money Shot,Puscifer,Oct 30 2015
+48893,48893,a2723,b979,So Familiar,Steve Martin,Oct 30 2015,So Familiar,Steve Martin & Edie Brickell,Oct 30 2015
+49099,49099,a2738,b975,Wiped Out!,The Neighbourhood,Oct 30 2015,Wiped Out!,The Neighbourhood,Oct 30 2015
+49219,49219,a2747,b969,Def Leppard,Def Leppard,Oct 30 2015,Def Leppard,Def Leppard,Oct 30 2015
+49389,49389,a2759,b958,Divers,Joanna Newsom,Oct 23 2015,Divers,Joanna Newsom,Oct 23 2015
+49405,49405,a2760,b961,Central Belters,Mogwai,Oct 23 2015,Central Belters,Mogwai,Oct 23 2015
+49424,49424,a2762,b954,Storyteller,Carrie Underwood,Oct 23 2015,Storyteller,Carrie Underwood,Oct 23 2015
+49462,49462,a2765,b953,Sounds Good Feels Good,5 Seconds of Summer,Oct 23 2015,Sounds Good Feels Good,5 Seconds of Summer,Oct 23 2015
+49499,49499,a2767,b964,Another Country,Rod Stewart,Oct 23 2015,Another Country,Rod Stewart,Oct 23 2015
+49524,49524,a2769,b963,Pray for Rain,Pure Bathing Culture,Oct 23 2015,Pray for Rain,Pure Bathing Culture,Oct 23 2015
+49530,49530,a2770,b956,Angels & Ghosts,Dave Gahan & the Soulsavers,Oct 23 2015,Angels & Ghosts,Dave Gahan & Soulsavers,Oct 23 2015
+49552,49552,a2771,b965,Liberman,Vanessa Carlton,Oct 23 2015,Liberman,Vanessa Carlton,Oct 23 2015
+49610,49610,a2776,b941,Fading Frontier,Deerhunter,Oct 16 2015,Fading Frontier,Deerhunter,Oct 16 2015
+49623,49623,a2777,b940,The Color Before the Sun,Coheed and Cambria,Oct 16 2015,The Color Before the Sun,Coheed and Cambria,Oct 16 2015
+49700,49700,a2782,b947,VEGA INTL. Night School,Neon Indian,Oct 16 2015,VEGA INTL. Night School,Neon Indian,Oct 16 2015
+49723,49723,a2784,b942,Confident,Demi Lovato,Oct 16 2015,Confident,Demi Lovato,Oct 16 2015
+49934,49934,a2799,b943,The Documentary 2.5,The Game,Oct 16 2015,The Documentary 2.5,The Game,Oct 16 2015
+50244,50244,a2821,b930,The Agent Intellect,Protomartyr,Oct 9 2015,The Agent Intellect,Protomartyr,Oct 9 2015
+50270,50270,a2823,b928,Surrender,Hurts,Oct 9 2015,Surrender,Hurts,Oct 9 2015
+50294,50294,a2825,b924,If I Should Go Before You,City and Colour,Oct 9 2015,If I Should Go Before You,City and Colour,Oct 9 2015
+50333,50333,a2827,b935,35 MPH Town,Toby Keith,Oct 9 2015,35 MPH Town,Toby Keith,Oct 9 2015
+50345,50345,a2828,b933,Revival,Selena Gomez,Oct 9 2015,Revival,Selena Gomez,Oct 9 2015
+50422,50422,a2834,b926,The Documentary 2,The Game,Oct 9 2015,The Documentary 2,The Game,Oct 9 2015
+50485,50485,a2838,b913,In Dream,Editors,Oct 2 2015,In Dream,Editors,Oct 2 2015
+50583,50583,a2843,b911,New Bermuda,Deafheaven,Oct 2 2015,New Bermuda,Deafheaven,Oct 2 2015
+50624,50624,a2845,b912,Zipper Down,Eagles of Death Metal,Oct 2 2015,Zipper Down,Eagles of Death Metal,Oct 2 2015
+50646,50646,a2846,b914,Unbreakable,Janet Jackson,Oct 2 2015,Unbreakable,Janet Jackson,Oct 2 2015
+50775,50775,a2853,b903,Stories,Avicii,Oct 2 2015,Stories,Avicii,Oct 2 2015
+50796,50796,a2854,b904,All Across This Land,Blitzen Trapper,Oct 2 2015,All Across This Land,Blitzen Trapper,Oct 2 2015
+50913,50913,a2859,b921,Silence in the Snow,Trivium,Oct 2 2015,Silence in the Snow,Trivium,Oct 2 2015
+51020,51020,a2865,b908,Psychic Warfare,Clutch,Oct 2 2015,Psychic Warfare,Clutch,Oct 2 2015
+51059,51059,a2867,b907,I Worship Chaos,Children of Bodom,Oct 2 2015,I Worship Chaos,Children of Bodom,Oct 2 2015
