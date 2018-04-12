@@ -1,4 +1,4 @@
-,_id,ltable_ID,rtable_ID,ltable_Album,ltable_Artist,ltable_Release Date,rtable_Album,rtable_Artist,rtable_Release Date
+,_id,ltable_ID,rtable_ID,ltable_Album,ltable_Artist,ltable_Release Date,rtable_Album,rtable_Artist,rtable_Release Date,label
 0,0,a1001,b2328,black and white rainbows,bush,Mar 10 2017,black and white rainbows,bush,Mar 10 2017
 35,35,a1036,b2310,everything is forgotten,methyl ethel,Mar 3 2017,everything is forgotten,methyl ethel,Mar 3 2017
 75,75,a1072,b2272,don't get lost,the brian jonestown massacre,Feb 24 2017,tardigrades will inherit the earth,the mute gods,Feb 24 2017
