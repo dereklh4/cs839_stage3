@@ -1,401 +1,101 @@
-,_id,ltable_ID,rtable_ID,ltable_Album,ltable_Artist,ltable_Release Date,rtable_Album,rtable_Artist,rtable_Release Date,gold_label
-0,0,a1001,b2328,black and white rainbows,bush,Mar 10 2017,black and white rainbows,bush,Mar 10 2017,1
-35,35,a1036,b2310,everything is forgotten,methyl ethel,Mar 3 2017,everything is forgotten,methyl ethel,Mar 3 2017,1
-75,75,a1072,b2272,don't get lost,the brian jonestown massacre,Feb 24 2017,tardigrades will inherit the earth,the mute gods,Feb 24 2017,0
-94,94,a1088,b2228,life will see you now,jens lekman,Feb 17 2017,life will see you now,jens lekman,Feb 17 2017,1
-127,127,a1116,b320,new order presents be music,various artists,Feb 17 2017,i'll be home for christmas,various artists,Nov 24 2014,0
-146,146,a114,b2545,revelations,shamir,Nov 3 2017,hope,shamir,Apr 17 2017,0
-147,147,a114,b618,revelations,shamir,Nov 3 2017,ratchet,shamir,May 19 2015,0
-160,160,a1153,b2634,fresh air,homeshake,Feb 3 2017,fresh air,faust,May 5 2017,0
-187,187,a1175,b2115,tourist in this town,allison crutchfield,Jan 27 2017,tourist in this town,allison crutchfield,Jan 27 2017,1
-189,189,a1176,b2143,stitch of the world,tift merritt,Jan 27 2017,the continuous evilution of life'sÂ ?'s,twiztid,Jan 27 2017,0
-234,234,a123,b1444,"trouble no more: the bootleg series, vol. 13 1979-1981",bob dylan,Nov 3 2017,fallen angels,bob dylan,May 20 2016,0
-255,255,a1241,b2070,americaâ€™s velvet glory,the molochs,Jan 13 2017,feel your feelings fool!,the regrettes,Jan 13 2017,0
-260,260,a1245,b2064,feel your feelings fool!,the regrettes,Jan 13 2017,endless,the mcclymonts,Jan 13 2017,0
-284,284,a1263,b2006,do what thou wilt.,ab-soul,Dec 9 2016,do what thou wilt.,ab-soul,Dec 9 2016,1
-302,302,a1269,b3178,action time vision: a story of independent u.k. punk 1976-1979 [box set],various artists,Dec 9 2016,quality control: control the streets volume 1,various artists,Dec 8 2017,0
-307,307,a1274,b944,oxygene 3,jean michel jarre,Dec 2 2016,electronica 1: the time machine,jean michel jarre,Oct 16 2015,0
-320,320,a1280,b2541,the hamilton mixtape,various artists,Dec 2 2016,the fate of the furious: the album,various artists,Apr 14 2017,0
-322,322,a1280,b2652,the hamilton mixtape,various artists,Dec 2 2016,cover stories: brandi carlile celebrates 10 years of the story â€“ an album to benefit war child,various artists,May 5 2017,0
-341,341,a1301,b1752,pop ambient 2017,various artists,Nov 25 2016,trolls: original motion picture soundtrack,various artists,Sep 23 2016,0
-366,366,a1302,b3178,pc music volume 2,various artists,Nov 18 2016,quality control: control the streets volume 1,various artists,Dec 8 2017,0
-383,383,a1324,b1947,simple minds acoustic,simple minds,Nov 11 2016,acoustic,simple minds,Nov 11 2016,1
-386,386,a1330,b1936,long live the angels,emeli sandÃ©,Nov 11 2016,long live the angels,emeli sandÃ©,Nov 11 2016,1
-390,390,a1342,b1931,the madness of many,animals as leaders,Nov 11 2016,the madness of many,animals as leaders,Nov 11 2016,1
-400,400,a1353,b393,the 1966 live recordings [box set],bob dylan,Nov 11 2016,shadows in the night,bob dylan,Feb 3 2015,0
-403,403,a1361,b1832,mc4 [mixtape],french montana,Nov 5 2016,mc4,french montana,Oct 14 2016,
-428,428,a138,b208,pacific daydream,weezer,Oct 27 2017,everything will be alright in the end,weezer,Oct 7 2014,0
-448,448,a1407,b1886,home on native land,the hidden cameras,Oct 28 2016,two vines,empire of the sun,Oct 28 2016,0
-450,450,a1410,b2561,box,gas,Oct 28 2016,narkopop,gas,Apr 21 2017,0
-459,459,a1418,b1856,running out of love,the radio dept.,Oct 21 2016,the deaner album,the dean ween group,Oct 21 2016,0
-463,463,a1419,b1864,joanne,lady gaga,Oct 21 2016,joanne,lady gaga,Oct 21 2016,1
-474,474,a1432,b2003,lazarus [original cast recording],various artists,Oct 21 2016,the hamilton mixtape,various artists,Dec 2 2016,0
-515,515,a1453,b1833,dissociation,the dillinger escape plan,Oct 14 2016,1992,the game,Oct 14 2016,0
-531,531,a1463,b1843,"cow / chill out, world!",the orb,Oct 14 2016,simple forms,the naked and famous,Oct 14 2016,0
-532,532,a1463,b1844,"cow / chill out, world!",the orb,Oct 14 2016,"cow / chill out, world!",the orb,Oct 14 2016,1
-549,549,a1475,b2892,say yes!: a tribute to elliott smith,various artists,Oct 14 2016,punk goes pop vol. 7,various artists,Jul 14 2017,0
-561,561,a1490,b1801,let them eat chaos,kate tempest,Oct 7 2016,the monash sessions,kate ceberano,Oct 7 2016,0
-570,570,a1502,b1818,friends,white lies,Oct 7 2016,friends,white lies,Oct 7 2016,1
-592,592,a1522,b1759,"22, a million",bon iver,Sep 30 2016,"22, a million",bon iver,Sep 30 2016,1
-609,609,a1533,b1772,sorceress,opeth,Sep 30 2016,sorceress,opeth,Sep 30 2016,1
-622,622,a1548,b1769,bounce,the english beat,Sep 30 2016,another fall from grace,the mission,Sep 30 2016,0
-626,626,a1554,b1754,atrocity exhibition,danny brown,Sep 27 2016,atrocity exhibition,danny brown,Sep 27 2016,1
-637,637,a1569,b553,"young as the morning, old as the sea",passenger,Sep 23 2016,whispers ii,passenger,Apr 20 2015,0
-694,694,a1647,b1688,future echoes,the pictish trail,Sep 9 2016,signs of light,the head and the heart,Sep 9 2016,0
-702,702,a165,b2541,even a tree can shed tears: japanese folk & rock 1969-1973,various artists,Oct 20 2017,the fate of the furious: the album,various artists,Apr 14 2017,0
-733,733,a1687,b1643,los niÃ±os sin miedo,the parrots,Aug 26 2016,between waves,the album leaf,Aug 26 2016,0
-745,745,a1696,b707,prima donna [ep],vince staples,Aug 26 2016,summertime '06,vince staples,Jun 30 2015,0
-795,795,a1763,b1610,give a glimpse of what yer not,dinosaur jr.,Aug 5 2016,give a glimpse of what yer not,dinosaur jr.,Aug 5 2016,1
-799,799,a1773,b2981,lovers,nels cline,Aug 5 2016,lovers,anna of the north,Sep 8 2017,0
-812,812,a1787,b2355,running the voodoo down: explorations in psychrockfunksouljazz 1967-1980,various artists,Aug 5 2016,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,0
-821,821,a1790,b1604,for all we know,nao,Jul 29 2016,for all we know,nao,Jul 29 2016,1
-822,822,a1791,b1600,the king of whys,owen,Jul 29 2016,the definition of...,fantasia,Jul 29 2016,0
-824,824,a1791,b1606,the king of whys,owen,Jul 29 2016,echoes of the tortured,sinsaenum,Jul 29 2016,0
-833,833,a18,b2930,revival,eminem,Dec 15 2017,revival,third day,Aug 6 2017,0
-834,834,a18,b3183,revival,eminem,Dec 15 2017,revival,eminem,Dec 15 2017,1
-856,856,a1802,b2205,i'm a freak baby: a journey through the british heavy psych & hard rock underground scene 1968-1972,various artists,Jul 29 2016,fifty shades darker: original motion picture soundtrack,various artists,Feb 10 2017,0
-858,858,a1802,b2541,i'm a freak baby: a journey through the british heavy psych & hard rock underground scene 1968-1972,various artists,Jul 29 2016,the fate of the furious: the album,various artists,Apr 14 2017,
-875,875,a1820,b1591,lil durk 2x,lil durk,Jul 22 2016,lil durk 2x,lil durk,Jul 22 2016,
-883,883,a1825,b600,coolaid,snoop dogg,Jul 15 2016,bush,snoop dogg,May 12 2015,
-888,888,a1840,b1577,nothing's real,shura,Jul 8 2016,nothing's real,shura,Jul 8 2016,
-889,889,a1841,b1575,take her up to monto,roisin murphy,Jul 8 2016,take her up to monto,rÃ_isÃ_n murphy,Jul 8 2016,
-891,891,a1844,b2770,cheetah [ep],aphex twin,Jul 8 2016,london 03.06.17,aphex twin,Jun 3 2017,
-909,909,a1874,b2014,earth,neil young,Jun 24 2016,peace trail,neil young,Dec 9 2016,
-932,932,a1900,b1527,puberty 2,mitski,Jun 17 2016,puberty 2,mitski,Jun 17 2016,
-949,949,a1926,b1507,charlie faye & the fayettes,charlie faye & the fayettes,Jun 10 2016,fitz and the tantrums,fitz and the tantrums,Jun 10 2016,
-977,977,a1962,b1489,future present past [ep],the strokes,Jun 3 2016,monolith of phobos,the claypool lennon delirium,Jun 3 2016,
-978,978,a1962,b1493,future present past [ep],the strokes,Jun 3 2016,ash & ice,the kills,Jun 3 2016,
-987,987,a1976,b1489,monolith of phobos,the claypool lennon delirium,Jun 3 2016,monolith of phobos,the claypool lennon delirium,Jun 3 2016,
-1001,1001,a20,b341,pop 2 [mixtape],charli xcx,Dec 15 2017,sucker,charli xcx,Dec 15 2014,
-1016,1016,a2011,b1483,to be everywhere is to be nowhere,thrice,May 27 2016,to be everywhere is to be nowhere,thrice,May 27 2016,
-1020,1020,a2015,b1473,27-Jul,fifth harmony,May 27 2016,27-Jul,fifth harmony,May 27 2016,
-1033,1033,a2032,b1470,stranger things have happened,clare maguire,May 27 2016,stranger things have happened,clare maguire,May 27 2016,
-1034,1034,a2032,b424,stranger things have happened,clare maguire,May 27 2016,don't mess me around,clare maguire,Feb 23 2015,
-1039,1039,a2035,b1272,2,mudcrutch,May 20 2016,2,citizen way,Mar 11 2016,
-1076,1076,a206,b3072,beautiful trauma,p!nk,Oct 13 2017,beautiful trauma,pink,Oct 13 2017,
-1082,1082,a2075,b124,thank you,meghan trainor,May 13 2016,title,meghan trainor,Sep 9 2014,
-1096,1096,a2089,b1426,kin,the duke spirit,May 13 2016,coloring book,chance the rapper,May 13 2016,
-1137,1137,a2126,b2003,dj koze presents pampa vol. 1,various artists,Apr 29 2016,the hamilton mixtape,various artists,Dec 2 2016,
-1140,1140,a2126,b2355,dj koze presents pampa vol. 1,various artists,Apr 29 2016,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,
-1157,1157,a2132,b3188,nonagon infinity,king gizzard & the lizard wizard,Apr 29 2016,gumboot soup,king gizzard & the lizard wizard,Dec 31 2017,
-1168,1168,a2145,b2003,another splash of colour: new psychedelia in britain 1980-1985 [box set],various artists,Apr 29 2016,the hamilton mixtape,various artists,Dec 2 2016,
-1185,1185,a2146,b2355,close to the noise floor: formative uk electronica 1975-1984 [box set],various artists,Apr 29 2016,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,
-1197,1197,a2154,b1345,everybody's heart is broken now,niki and the dove,Apr 22 2016,everybody's heart is broken now,niki and the dove,Apr 8 2016,
-1224,1224,a2196,b1336,hurt & the merciless,the heavy,Apr 8 2016,call it what it is,ben harper & the innocent criminals,Apr 8 2016,
-1247,1247,a2208,b1345,the peace & truce of future of the left,future of the left,Apr 8 2016,everybody's heart is broken now,niki and the dove,Apr 8 2016,
-1249,1249,a2210,b1334,red flag,all saints,Apr 8 2016,red flag,all saints,Apr 8 2016,
-1271,1271,a2228,b1314,everything you've come to expect,the last shadow puppets,Apr 1 2016,the wilderness,explosions in the sky,Apr 1 2016,
-1276,1276,a2229,b1326,super,pet shop boys,Apr 1 2016,super,pet shop boys,Apr 1 2016,
-1288,1288,a2236,b1327,the  wilderness,explosions in the sky,Apr 1 2016,stories for monday,the summer set,Apr 1 2016,
-1290,1290,a2238,b1315,the  follower,the field,Apr 1 2016,the follower,the field,Apr 1 2016,
-1302,1302,a2245,b1327,stories for monday,the summer set,Apr 1 2016,stories for monday,the summer set,Apr 1 2016,
-1319,1319,a2251,b101,,nisennenmondai,Apr 1 2016,listen,the kooks,Sep 1 2014,
-1322,1322,a2251,b1012,,nisennenmondai,Apr 1 2016,first comes the night,chris isaak,Nov 13 2015,
-1336,1336,a2251,b1025,,nisennenmondai,Apr 1 2016,christmas in tahoe,train,Nov 13 2015,
-1354,1354,a2251,b1041,,nisennenmondai,Apr 1 2016,white light,the corrs,Nov 27 2015,
-1368,1368,a2251,b1054,,nisennenmondai,Apr 1 2016,growing pains,maria mena,Dec 4 2015,
-1377,1377,a2251,b1062,,nisennenmondai,Apr 1 2016,right on!,jennylee,Dec 11 2015,
-1379,1379,a2251,b1064,,nisennenmondai,Apr 1 2016,everything that got us here,secrets,Dec 11 2015,
-1395,1395,a2251,b1079,,nisennenmondai,Apr 1 2016,wildfire,rachel platten,Jan 1 2016,
-1408,1408,a2251,b1090,,nisennenmondai,Apr 1 2016,the casket factory,blaze ya dead homie,Jan 15 2016,
-1452,1452,a2251,b113,,nisennenmondai,Apr 1 2016,lullaby andâ€_ the ceaseless roar,robert plant,Sep 8 2014,
-1476,1476,a2251,b1151,,nisennenmondai,Apr 1 2016,suicide songs,money,Jan 29 2016,
-1505,1505,a2251,b1178,,nisennenmondai,Apr 1 2016,begin,lion babe,Feb 5 2016,
-1506,1506,a2251,b1179,,nisennenmondai,Apr 1 2016,the ghosts of highway 20,lucinda williams,Feb 5 2016,
-1513,1513,a2251,b1185,,nisennenmondai,Apr 1 2016,khalifa,wiz khalifa,Feb 5 2016,
-1514,1514,a2251,b1186,,nisennenmondai,Apr 1 2016,good advice,basia bulat,Feb 12 2016,
-1524,1524,a2251,b1195,,nisennenmondai,Apr 1 2016,synesthetica,radiation city,Feb 12 2016,
-1532,1532,a2251,b1201,,nisennenmondai,Apr 1 2016,the life of pablo,kanye west,Feb 14 2016,
-1572,1572,a2251,b1238,,nisennenmondai,Apr 1 2016,99Â¢,santigold,Feb 26 2016,
-1600,1600,a2251,b1263,,nisennenmondai,Apr 1 2016,limitless,tonight alive,Mar 4 2016,
-1602,1602,a2251,b1265,,nisennenmondai,Apr 1 2016,we can do anything,violent femmes,Mar 4 2016,
-1613,1613,a2251,b1275,,nisennenmondai,Apr 1 2016,incarnate,killswitch engage,Mar 11 2016,
-1631,1631,a2251,b1291,,nisennenmondai,Apr 1 2016,jomsviking,amon amarth,Mar 25 2016,
-1647,1647,a2251,b1305,,nisennenmondai,Apr 1 2016,mind of mine,zayn,Mar 25 2016,
-1662,1662,a2251,b1319,,nisennenmondai,Apr 1 2016,bacteria cult,kaada/patton,Apr 1 2016,
-1691,1691,a2251,b1345,,nisennenmondai,Apr 1 2016,everybody's heart is broken now,niki and the dove,Apr 8 2016,
-1710,1710,a2251,b1362,,nisennenmondai,Apr 1 2016,the hope six demolition project,pj harvey,Apr 15 2016,
-1739,1739,a2251,b1389,,nisennenmondai,Apr 1 2016,affinity,haken,Apr 29 2016,
-1758,1758,a2251,b1405,,nisennenmondai,Apr 1 2016,detour,cyndi lauper,May 6 2016,
-1762,1762,a2251,b1409,,nisennenmondai,Apr 1 2016,electronica 2: the heart of noise,jean michel jarre,May 6 2016,
-1763,1763,a2251,b141,,nisennenmondai,Apr 1 2016,this is my hand,my brightest diamond,Sep 16 2014,
-1775,1775,a2251,b1420,,nisennenmondai,Apr 1 2016,one,tim garland,May 6 2016,
-1789,1789,a2251,b1433,,nisennenmondai,Apr 1 2016,oh no,jessy lanza,May 13 2016,
-1804,1804,a2251,b1447,,nisennenmondai,Apr 1 2016,i still do,eric clapton,May 20 2016,
-1806,1806,a2251,b1449,,nisennenmondai,Apr 1 2016,titancraft,iron savior,May 20 2016,
-1817,1817,a2251,b1459,,nisennenmondai,Apr 1 2016,along the shadow,saosin,May 20 2016,
-1822,1822,a2251,b1463,,nisennenmondai,Apr 1 2016,vyamanikal,kit downes & tom challenger,May 26 2016,
-1859,1859,a2251,b1497,,nisennenmondai,Apr 1 2016,3,netsky,Jun 3 2016,
-1889,1889,a2251,b1523,,nisennenmondai,Apr 1 2016,streets of compton,the game,Jun 17 2016,
-1899,1899,a2251,b1532,,nisennenmondai,Apr 1 2016,the glowing man,swans,Jun 17 2016,
-1939,1939,a2251,b1569,,nisennenmondai,Apr 1 2016,ellipsis,biffy clyro,Jul 8 2016,
-1941,1941,a2251,b1570,,nisennenmondai,Apr 1 2016,black dogs,boys night out,Jul 8 2016,
-1942,1942,a2251,b1571,,nisennenmondai,Apr 1 2016,the north corridor,chevelle,Jul 8 2016,
-1947,1947,a2251,b1576,,nisennenmondai,Apr 1 2016,blank face lp,schoolboy q,Jul 8 2016,
-1960,1960,a2251,b1588,,nisennenmondai,Apr 1 2016,retrograde,crown the empire,Jul 22 2016,
-1963,1963,a2251,b1590,,nisennenmondai,Apr 1 2016,gimme some lovin': jukebox vol ii,human nature,Jul 22 2016,
-1973,1973,a2251,b16,,nisennenmondai,Apr 1 2016,live life living,example,Jul 7 2014,
-1991,1991,a2251,b1615,,nisennenmondai,Apr 1 2016,apokaluptein,live maria roggen,Aug 5 2016,
-2024,2024,a2251,b1645,,nisennenmondai,Apr 1 2016,encore: movie partners sing broadway,barbra streisand,Aug 26 2016,
-2025,2025,a2251,b1646,,nisennenmondai,Apr 1 2016,advanced chemistry,beginner,Aug 26 2016,
-2043,2043,a2251,b1662,,nisennenmondai,Apr 1 2016,decision day,sodom,Aug 26 2016,
-2061,2061,a2251,b1679,,nisennenmondai,Apr 1 2016,wild world,bastille,Sep 9 2016,
-2090,2090,a2251,b1704,,nisennenmondai,Apr 1 2016,divide & conquer,what so not,Sep 9 2016,
-2128,2128,a2251,b1739,,nisennenmondai,Apr 1 2016,care,how to dress well,Sep 23 2016,
-2138,2138,a2251,b1748,,nisennenmondai,Apr 1 2016,illuminate,shawn mendes,Sep 23 2016,
-2156,2156,a2251,b1764,,nisennenmondai,Apr 1 2016,the holographic principle,epica,Sep 30 2016,
-2175,2175,a2251,b1781,,nisennenmondai,Apr 1 2016,keep me singing,van morrison,Sep 30 2016,
-2182,2182,a2251,b1788,,nisennenmondai,Apr 1 2016,in the now,barry gibb,Oct 7 2016,
-2203,2203,a2251,b1806,,nisennenmondai,Apr 1 2016,the violent sleep of reason,meshuggah,Oct 7 2016,
-2206,2206,a2251,b1809,,nisennenmondai,Apr 1 2016,liv on,"olivia newton-john, beth nielsen chapman and amy sky",Oct 7 2016,
-2218,2218,a2251,b182,,nisennenmondai,Apr 1 2016,neon future i,steve aoki,Sep 30 2014,
-2220,2220,a2251,b1821,,nisennenmondai,Apr 1 2016,solas,the answer,Oct 14 2016,
-2242,2242,a2251,b1841,,nisennenmondai,Apr 1 2016,walls,kings of leon,Oct 14 2016,
-2278,2278,a2251,b1874,,nisennenmondai,Apr 1 2016,the greatest gift of all,rascal flatts,Oct 21 2016,
-2279,2279,a2251,b1875,,nisennenmondai,Apr 1 2016,saintmotelevision,saint motel,Oct 21 2016,
-2286,2286,a2251,b1881,,nisennenmondai,Apr 1 2016,the stage,avenged sevenfold,Oct 28 2016,
-2302,2302,a2251,b1896,,nisennenmondai,Apr 1 2016,can't touch us now,madness,Oct 28 2016,
-2304,2304,a2251,b1898,,nisennenmondai,Apr 1 2016,i dreamt i was a cowboy,miniature tigers,Oct 28 2016,
-2350,2350,a2251,b1939,,nisennenmondai,Apr 1 2016,battles,in flames,Nov 11 2016,
-2376,2376,a2251,b1962,,nisennenmondai,Apr 1 2016,live at red rocks,disturbed,Nov 18 2016,
-2380,2380,a2251,b1966,,nisennenmondai,Apr 1 2016,dear life,high valley,Nov 18 2016,
-2383,2383,a2251,b1969,,nisennenmondai,Apr 1 2016,american boyfriend: a suburban love story,kevin abstract,Nov 18 2016,
-2422,2422,a2251,b2002,,nisennenmondai,Apr 1 2016,il mestiere della vita,tiziano ferro,Dec 2 2016,
-2431,2431,a2251,b2010,,nisennenmondai,Apr 1 2016,4 your eyez only,j. cole,Dec 9 2016,
-2442,2442,a2251,b2020,,nisennenmondai,Apr 1 2016,this house is not for sale â€“ live from the london palladium,bon jovi,Dec 16 2016,
-2443,2443,a2251,b2021,,nisennenmondai,Apr 1 2016,more rubbish,buddy goode,Dec 16 2016,
-2456,2456,a2251,b2033,,nisennenmondai,Apr 1 2016,winter,akdong musician,Jan 3 2017,
-2483,2483,a2251,b2058,,nisennenmondai,Apr 1 2016,"gentlewoman, ruby man",flo morrissey and matthew e. white,Jan 13 2017,
-2503,2503,a2251,b2076,,nisennenmondai,Apr 1 2016,new world alphabet,ubiquitous synergy seeker,Jan 13 2017,
-2509,2509,a2251,b2081,,nisennenmondai,Apr 1 2016,don't say no,seohyun,Jan 17 2017,
-2539,2539,a2251,b2108,,nisennenmondai,Apr 1 2016,"she rocks, vol. 1",various artists,Jan 20 2017,
-2577,2577,a2251,b2142,,nisennenmondai,Apr 1 2016,"a girl, a bottle, a boat",train,Jan 27 2017,
-2602,2602,a2251,b2165,,nisennenmondai,Apr 1 2016,testify ep,the knocks,Feb 3 2017,
-2609,2609,a2251,b2171,,nisennenmondai,Apr 1 2016,process,sampha,Feb 3 2017,
-2610,2610,a2251,b2172,,nisennenmondai,Apr 1 2016,louder!,sofÃ_a reyes,Feb 3 2017,
-2625,2625,a2251,b2186,,nisennenmondai,Apr 1 2016,vietato morire,ermal meta,Feb 10 2017,
-2636,2636,a2251,b2196,,nisennenmondai,Apr 1 2016,"being you is great, i wish i could be you more often",quelle chris,Feb 10 2017,
-2637,2637,a2251,b2197,,nisennenmondai,Apr 1 2016,human,rag'n'bone man,Feb 10 2017,
-2647,2647,a2251,b2205,,nisennenmondai,Apr 1 2016,fifty shades darker: original motion picture soundtrack,various artists,Feb 10 2017,
-2649,2649,a2251,b2207,,nisennenmondai,Apr 1 2016,skull and bones (the final chapter),bohemia,Feb 13 2017,
-2651,2651,a2251,b2209,,nisennenmondai,Apr 1 2016,keke covers,keke wyatt,Feb 14 2017,
-2652,2652,a2251,b221,,nisennenmondai,Apr 1 2016,black star elephant,nico & vinz,Oct 14 2014,
-2655,2655,a2251,b2212,,nisennenmondai,Apr 1 2016,16 wives,jovi,Feb 16 2017,
-2684,2684,a2251,b2239,,nisennenmondai,Apr 1 2016,hard love,strand of oaks,Feb 17 2017,
-2703,2703,a2251,b2256,,nisennenmondai,Apr 1 2016,youngish american,dams of the west,Feb 24 2017,
-2737,2737,a2251,b2287,,nisennenmondai,Apr 1 2016,drunk,thundercat,Feb 24 2017,
-2746,2746,a2251,b2295,,nisennenmondai,Apr 1 2016,fences,bombadil,Mar 3 2017,
-2755,2755,a2251,b2302,,nisennenmondai,Apr 1 2016,i say yes,j sutta,Mar 3 2017,
-2780,2780,a2251,b2325,,nisennenmondai,Apr 1 2016,w face: inside/outside,koda kumi,Mar 8 2017,
-2783,2783,a2251,b2328,,nisennenmondai,Apr 1 2016,black and white rainbows,bush,Mar 10 2017,
-2795,2795,a2251,b2339,,nisennenmondai,Apr 1 2016,garcia live volume eight,jerry garcia band,Mar 10 2017,
-2800,2800,a2251,b2343,,nisennenmondai,Apr 1 2016,50 song memoir,the magnetic fields,Mar 10 2017,
-2821,2821,a2251,b2362,,nisennenmondai,Apr 1 2016,blkswn,smino,Mar 14 2017,
-2826,2826,a2251,b2367,,nisennenmondai,Apr 1 2016,salutations,conor oberst,Mar 17 2017,
-2833,2833,a2251,b2373,,nisennenmondai,Apr 1 2016,heroÃ_na,nina rodrÃ_guez,Mar 17 2017,
-2889,2889,a2251,b2423,,nisennenmondai,Apr 1 2016,wonderland,take that,Mar 24 2017,
-2898,2898,a2251,b2431,,nisennenmondai,Apr 1 2016,triplicate,bob dylan,Mar 31 2017,
-2899,2899,a2251,b2432,,nisennenmondai,Apr 1 2016,bloodlust,body count,Mar 31 2017,
-2906,2906,a2251,b2439,,nisennenmondai,Apr 1 2016,step brothers,g-eazy and carnage,Mar 31 2017,
-2918,2918,a2251,b245,,nisennenmondai,Apr 1 2016,.5: the gray chapter,slipknot,Oct 21 2014,
-2929,2929,a2251,b246,,nisennenmondai,Apr 1 2016,hope,susan boyle,Oct 21 2014,
-2944,2944,a2251,b2473,,nisennenmondai,Apr 1 2016,belladonna of sadness,alexandra savior,Apr 7 2017,
-2974,2974,a2251,b250,,nisennenmondai,Apr 1 2016,love ran red,chris tomlin,Oct 27 2014,
-2977,2977,a2251,b2502,,nisennenmondai,Apr 1 2016,rake it in: the greatestest hits,me first and the gimme gimmes,Apr 7 2017,
-2998,2998,a2251,b2521,,nisennenmondai,Apr 1 2016,the world's best american band,white reaper,Apr 7 2017,
-3031,3031,a2251,b2551,,nisennenmondai,Apr 1 2016,wrangled,angaleena presley,Apr 21 2017,
-3077,3077,a2251,b2593,,nisennenmondai,Apr 1 2016,something else,the cranberries,Apr 28 2017,
-3113,3113,a2251,b2625,,nisennenmondai,Apr 1 2016,big walnuts yonder,big walnuts yonder,May 5 2017,
-3147,3147,a2251,b2656,,nisennenmondai,Apr 1 2016,simetrisiti,siti nurhaliza,May 10 2017,
-3169,3169,a2251,b2676,,nisennenmondai,Apr 1 2016,pageant,pwr bttm,May 12 2017,
-3171,3171,a2251,b2678,,nisennenmondai,Apr 1 2016,who am i,sarah p.,May 12 2017,
-3179,3179,a2251,b2685,,nisennenmondai,Apr 1 2016,shangri-la,vixx,May 15 2017,
-3182,3182,a2251,b2688,,nisennenmondai,Apr 1 2016,t-wayne,t-pain and lil wayne,May 18 2017,
-3188,3188,a2251,b2693,,nisennenmondai,Apr 1 2016,stubborn persistent illusions,do make say think,May 19 2017,
-3238,3238,a2251,b2738,,nisennenmondai,Apr 1 2016,the songs and poems of molly drake,the unthanks,May 26 2017,
-3240,3240,a2251,b274,,nisennenmondai,Apr 1 2016,very good bad thing,mother mother,Nov 4 2014,
-3255,3255,a2251,b2753,,nisennenmondai,Apr 1 2016,dua lipa,dua lipa,Jun 2 2017,
-3258,3258,a2251,b2756,,nisennenmondai,Apr 1 2016,return of the don,kool g rap,Jun 2 2017,
-3260,3260,a2251,b2758,,nisennenmondai,Apr 1 2016,know no better,major lazer,Jun 2 2017,
-3278,3278,a2251,b2774,,nisennenmondai,Apr 1 2016,kwon ji yong,g-dragon,Jun 8 2017,
-3289,3289,a2251,b2784,,nisennenmondai,Apr 1 2016,chuck,chuck berry,Jun 9 2017,
-3291,3291,a2251,b2786,,nisennenmondai,Apr 1 2016,adiÃ_s,glen campbell,Jun 9 2017,
-3308,3308,a2251,b2800,,nisennenmondai,Apr 1 2016,more fast songs about the apocalypse,moby and the void pacific choir,Jun 12 2017,
-3333,3333,a2251,b2823,,nisennenmondai,Apr 1 2016,rich forever 3,"rich the kid, famous dex and jay critch",Jun 16 2017,
-3346,3346,a2251,b2835,,nisennenmondai,Apr 1 2016,felt,the chain gang of 1974,Jun 23 2017,
-3395,3395,a2251,b288,,nisennenmondai,Apr 1 2016,like a cat,aoa,Nov 11 2014,
-3439,3439,a2251,b2919,,nisennenmondai,Apr 1 2016,the autobiography,vic mensa,Jul 28 2017,
-3456,3456,a2251,b2934,,nisennenmondai,Apr 1 2016,love has a name,jesus culture,Aug 11 2017,
-3477,3477,a2251,b2953,,nisennenmondai,Apr 1 2016,cozy tapes vol. 2: too cozy,asap mob,Aug 25 2017,
-3514,3514,a2251,b2987,,nisennenmondai,Apr 1 2016,m.o.b.,project pat,Sep 8 2017,
-3524,3524,a2251,b2996,,nisennenmondai,Apr 1 2016,okovi,zola jesus,Sep 8 2017,
-3526,3526,a2251,b2998,,nisennenmondai,Apr 1 2016,snow,angus & julia stone,Sep 15 2017,
-3564,3564,a2251,b3030,,nisennenmondai,Apr 1 2016,the attractions of youth,barns courtney,Sep 29 2017,
-3566,3566,a2251,b3032,,nisennenmondai,Apr 1 2016,tell me you love me,demi lovato,Sep 29 2017,
-3589,3589,a2251,b3053,,nisennenmondai,Apr 1 2016,raised under grey skies,jp cooper,Oct 6 2017,
-3594,3594,a2251,b3058,,nisennenmondai,Apr 1 2016,heaven upside down,marilyn manson,Oct 6 2017,
-3628,3628,a2251,b3089,,nisennenmondai,Apr 1 2016,warmer in the winter,lindsey stirling,Oct 20 2017,
-3638,3638,a2251,b3098,,nisennenmondai,Apr 1 2016,amore gigante,gianna nannini,Oct 27 2017,
-3641,3641,a2251,b310,,nisennenmondai,Apr 1 2016,never been better,olly murs,Nov 21 2014,
-3644,3644,a2251,b3102,,nisennenmondai,Apr 1 2016,conscious,guy sebastian,Oct 27 2017,
-3655,3655,a2251,b3112,,nisennenmondai,Apr 1 2016,wake up call,theory of a deadman,Oct 27 2017,
-3671,3671,a2251,b3127,,nisennenmondai,Apr 1 2016,red pill blues,maroon 5,Nov 3 2017,
-3677,3677,a2251,b3132,,nisennenmondai,Apr 1 2016,synthesis,evanescence,Nov 10 2017,
-3693,3693,a2251,b3147,,nisennenmondai,Apr 1 2016,if all i was was black,mavis staples,Nov 17 2017,
-3706,3706,a2251,b3159,,nisennenmondai,Apr 1 2016,trouble,matt terry,Nov 24 2017,
-3734,3734,a2251,b3184,,nisennenmondai,Apr 1 2016,the beautiful & damned,g-eazy,Dec 15 2017,
-3735,3735,a2251,b3185,,nisennenmondai,Apr 1 2016,one more light: live,linkin park,Dec 15 2017,
-3739,3739,a2251,b319,,nisennenmondai,Apr 1 2016,for you,selena gomez,Nov 24 2014,
-3757,3757,a2251,b335,,nisennenmondai,Apr 1 2016,vendetta: first round,ivy queen,Dec 9 2014,
-3762,3762,a2251,b34,,nisennenmondai,Apr 1 2016,strange desire,bleachers,Jul 15 2014,
-3796,3796,a2251,b370,,nisennenmondai,Apr 1 2016,tetsuo & youth,lupe fiasco,Jan 20 2015,
-3800,3800,a2251,b374,,nisennenmondai,Apr 1 2016,meditation,terje isungset,Jan 20 2015,
-3818,3818,a2251,b390,,nisennenmondai,Apr 1 2016,pinball,marius neset,Jan 30 2015,
-3872,3872,a2251,b439,,nisennenmondai,Apr 1 2016,lost isles,oceans ate alaska,Feb 24 2015,
-3882,3882,a2251,b448,,nisennenmondai,Apr 1 2016,let the road,rixton,Mar 2 2015,
-3888,3888,a2251,b453,,nisennenmondai,Apr 1 2016,another eternity,purity ring,Mar 3 2015,
-3902,3902,a2251,b466,,nisennenmondai,Apr 1 2016,froot,marina and the diamonds,Mar 16 2015,
-3916,3916,a2251,b479,,nisennenmondai,Apr 1 2016,"i don't like shit, i don't go outside",earl sweatshirt,Mar 23 2015,
-3942,3942,a2251,b501,,nisennenmondai,Apr 1 2016,escape from evil,lower dens,Mar 31 2015,
-3943,3943,a2251,b502,,nisennenmondai,Apr 1 2016,ludaversal,ludacris,Mar 31 2015,
-3960,3960,a2251,b518,,nisennenmondai,Apr 1 2016,white men are black men too,young fathers,Apr 6 2015,
-3970,3970,a2251,b527,,nisennenmondai,Apr 1 2016,joy,paper aeroplanes,Apr 8 2015,
-4049,4049,a2251,b599,,nisennenmondai,Apr 1 2016,love songs for robots,patrick watson,May 12 2015,
-4057,4057,a2251,b605,,nisennenmondai,Apr 1 2016,why make sense?,hot chip,May 15 2015,
-4069,4069,a2251,b616,,nisennenmondai,Apr 1 2016,platform,holly herndon,May 19 2015,
-4088,4088,a2251,b633,,nisennenmondai,Apr 1 2016,at. long. last. a$ap,a$ap rocky,May 26 2015,
-4123,4123,a2251,b665,,nisennenmondai,Apr 1 2016,burning point,burning point,Jun 12 2015,
-4133,4133,a2251,b674,,nisennenmondai,Apr 1 2016,the bright side,lenka,Jun 16 2015,
-4135,4135,a2251,b676,,nisennenmondai,Apr 1 2016,grand romantic,nate ruess,Jun 16 2015,
-4166,4166,a2251,b703,,nisennenmondai,Apr 1 2016,heavy love,man overboard,Jun 30 2015,
-4183,4183,a2251,b719,,nisennenmondai,Apr 1 2016,wild heart,samantha fish,Jul 10 2015,
-4219,4219,a2251,b751,,nisennenmondai,Apr 1 2016,water for your soul,joss stone,Jul 31 2015,
-4249,4249,a2251,b779,,nisennenmondai,Apr 1 2016,best of the soul years,jimmy barnes,Aug 14 2015,
-4252,4252,a2251,b781,,nisennenmondai,Apr 1 2016,cry baby,melanie martinez,Aug 14 2015,
-4280,4280,a2251,b806,,nisennenmondai,Apr 1 2016,feline,ella eyre,Aug 28 2015,
-4297,4297,a2251,b821,,nisennenmondai,Apr 1 2016,got your six,five finger death punch,Sep 4 2015,
-4313,4313,a2251,b836,,nisennenmondai,Apr 1 2016,the calm before the storm,colton dixon,Sep 11 2015,
-4349,4349,a2251,b869,,nisennenmondai,Apr 1 2016,the light in you,mercury rev,Sep 18 2015,
-4356,4356,a2251,b875,,nisennenmondai,Apr 1 2016,threat to survival,shinedown,Sep 18 2015,
-4361,4361,a2251,b88,,nisennenmondai,Apr 1 2016,stomachaches,frank iero,Aug 25 2014,
-4366,4366,a2251,b884,,nisennenmondai,Apr 1 2016,caracal,disclosure,Sep 25 2015,
-4378,4378,a2251,b895,,nisennenmondai,Apr 1 2016,rub,peaches,Sep 25 2015,
-4384,4384,a2251,b90,,nisennenmondai,Apr 1 2016,royal blood,royal blood,Aug 25 2014,
-4387,4387,a2251,b902,,nisennenmondai,Apr 1 2016,no one ever tells you,seth macfarlane,Sep 30 2015,
-4396,4396,a2251,b910,,nisennenmondai,Apr 1 2016,see what you started by continuing,collective soul,Oct 2 2015,
-4399,4399,a2251,b913,,nisennenmondai,Apr 1 2016,in dream,editors,Oct 2 2015,
-4407,4407,a2251,b920,,nisennenmondai,Apr 1 2016,calling all lovers,tamar braxton,Oct 2 2015,
-4451,4451,a2251,b960,,nisennenmondai,Apr 1 2016,astoria,marianas trench,Oct 23 2015,
-4453,4453,a2251,b962,,nisennenmondai,Apr 1 2016,yours,nathaniel,Oct 23 2015,
-4469,4469,a2251,b977,,nisennenmondai,Apr 1 2016,money shot,puscifer,Oct 30 2015,
-4471,4471,a2251,b979,,nisennenmondai,Apr 1 2016,so familiar,steve martin & edie brickell,Oct 30 2015,
-4479,4479,a2251,b986,,nisennenmondai,Apr 1 2016,perfectamundo,billy gibbons and the bfg's,Nov 6 2015,
-4503,4503,a2274,b1298,hitch,the joy formidable,Mar 25 2016,the peace & truce of future of the left,future of the left,Mar 25 2016,
-4539,4539,a2303,b2574,star wars headspace,various artists,Mar 18 2016,guardians of the galaxy vol. 2,various artists,Apr 21 2017,
-4540,4540,a2303,b2652,star wars headspace,various artists,Mar 18 2016,cover stories: brandi carlile celebrates 10 years of the story â€“ an album to benefit war child,various artists,May 5 2017,
-4560,4560,a2316,b2541,wayfaring strangers: cosmic american music,various artists,Mar 18 2016,the fate of the furious: the album,various artists,Apr 14 2017,
-4591,4591,a2353,b1252,untitled unmastered.,kendrick lamar,Mar 4 2016,untitled unmastered.,kendrick lamar,Mar 4 2016,
-4607,4607,a2360,b1803,full circle,loretta lynn,Mar 4 2016,white christmas blue,loretta lynn,Oct 7 2016,
-4637,4637,a2401,b1223,"i like it when you sleep, for you are so beautiful yet so unaware of it",the 1975,Feb 26 2016,"i like it when you sleep, for you are so beautiful yet so unaware of it",the 1975,Feb 26 2016,
-4680,4680,a2416,b1230,vroom vroom [ep],charli xcx,Feb 26 2016,vroom vroom,charli xcx,Feb 26 2016,
-4690,4690,a2426,b2577,painting with,animal collective,Feb 19 2016,meeting of the waters,animal collective,Apr 22 2017,
-4700,4700,a2440,b1211,banshee,the cave singers,Feb 19 2016,banshee,the cave singers,Feb 19 2016,
-4713,4713,a2454,b1201,the life of pablo,kanye west,Feb 13 2016,the life of pablo,kanye west,Feb 14 2016,
-4729,4729,a2469,b1189,skifflin',the skiffle players,Feb 12 2016,synthia,the jezabels,Feb 12 2016,
-4730,4730,a2469,b1198,skifflin',the skiffle players,Feb 12 2016,the suffers,the suffers,Feb 12 2016,
-4752,4752,a2500,b1172,opus,eric prydz,Feb 5 2016,opus,eric prydz,Feb 5 2016,
-4766,4766,a2519,b2381,let me get by,tedeschi trucks band,Jan 29 2016,live from the fox oakland,tedeschi trucks band,Mar 17 2017,
-4768,4768,a2525,b1149,islah,kevin gates,Jan 29 2016,islah,kevin gates,Jan 29 2016,
-4807,4807,a2555,b1106,white bear,the temperance movement,Jan 22 2016,a coliseum complex museum,the besnard lakes,Jan 22 2016,
-4825,4825,a2569,b1118,above the prairie,the pines,Jan 22 2016,do nothing till you hear from me,the mute gods,Jan 22 2016,
-4827,4827,a2571,b2226,purple reign [mixtape],future,Jan 16 2016,future,future,Feb 17 2017,
-4829,4829,a2571,b727,purple reign [mixtape],future,Jan 16 2016,ds2,future,Jul 17 2015,
-4860,4860,a2600,b3117,royalty,chris brown,Dec 18 2015,heartbreak on a full moon,chris brown,Oct 31 2017,
-4886,4886,a2624,b72,blue neighbourhood,troye sivan,Dec 4 2015,trxye,troye sivan,Aug 15 2014,
-4887,4887,a2624,b829,blue neighbourhood,troye sivan,Dec 4 2015,wild,troye sivan,Sep 4 2015,
-4920,4920,a2666,b1014,made in the a.m.,one direction,Nov 13 2015,alone in the universe,jeff lynne's elo,Nov 13 2015,
-4922,4922,a2666,b300,made in the a.m.,one direction,Nov 13 2015,four,one direction,Nov 17 2014,
-4939,4939,a2680,b241,the incredible true story,logic,Nov 13 2015,under pressure,logic,Oct 21 2014,
-4978,4978,a2715,b552,slime season 2 [mixtape],young thug,Oct 31 2015,barter 6,young thug,Apr 17 2015,
-5004,5004,a2732,b971,it's a holiday soul party,sharon jones & the dap-kings,Oct 30 2015,hate me,escape the fate,Oct 30 2015,
-5037,5037,a2756,b2844,in situ,laurel halo,Oct 30 2015,dust,laurel halo,Jun 23 2017,
-5047,5047,a2767,b964,another country,rod stewart,Oct 23 2015,another country,rod stewart,Oct 23 2015,
-5071,5071,a2808,b943,country agenda,alex bleeker & the freaks,Oct 16 2015,the documentary 2.5,the game,Oct 16 2015,
-5100,5100,a2832,b926,try to be hopeful,the spook school,Oct 9 2015,the documentary 2,the game,Oct 9 2015,
-5133,5133,a2866,b1752,trevor jackson presents: science fiction dancehall classics,various artists,Oct 2 2015,trolls: original motion picture soundtrack,various artists,Sep 23 2016,
-5156,5156,a2872,b895,rub,peaches,Sep 25 2015,rub,peaches,Sep 25 2015,
-5159,5159,a2874,b2448,have you in my wilderness,julia holter,Sep 25 2015,in the same room,julia holter,Mar 31 2017,
-5202,5202,a2916,b868,go:od am,mac miller,Sep 18 2015,go:od am,mac miller,Sep 18 2015,
-5205,5205,a292,b499,luciferian towers,godspeed you! black emperor,Sep 22 2017,"asunder, sweet and other distress",godspeed you! black emperor,Mar 31 2015,
-5235,5235,a2961,b834,so there,ben folds,Sep 11 2015,so there,ben folds,Sep 11 2015,
-5237,5237,a2964,b835,that's the spirit,bring me the horizon,Sep 11 2015,that's the spirit,bring me the horizon,Sep 11 2015,
-5248,5248,a2971,b835,the southern surreal,the legendary shack shakers,Sep 11 2015,that's the spirit,bring me the horizon,Sep 11 2015,
-5259,5259,a2974,b825,what the world needs now,public image ltd.,Sep 4 2015,what the world needs now...,public image ltd,Sep 4 2015,
-5270,5270,a2987,b824,no closer to heaven,the wonder years,Sep 4 2015,oh wonder,oh wonder,Sep 4 2015,
-5272,5272,a2989,b1675,rodeo,travis scott,Sep 4 2015,birds in the trap sing mcknight,travis scott,Sep 2 2016,
-5297,5297,a2999,b3178,Âµ20,various artists,Sep 4 2015,quality control: control the streets volume 1,various artists,Dec 8 2017,
-5299,5299,a2999,b321,Âµ20,various artists,Sep 4 2015,shady xv,various artists,Nov 24 2014,
-5318,5318,a327,b506,give more love,ringo starr,Sep 15 2017,postcards from paradise,ringo starr,Mar 31 2015,
-5323,5323,a331,b3012,choir of the mind,emily haines & the soft skeleton,Sep 15 2017,special edition grand master deluxe,the cool kids,Sep 15 2017,
-5324,5324,a331,b3013,choir of the mind,emily haines & the soft skeleton,Sep 15 2017,carnival iii: the fall and rise of a refugee,wyclef jean,Sep 15 2017,
-5347,5347,a370,b2985,shade,living colour,Sep 8 2017,shade,living colour,Sep 8 2017,
-5348,5348,a371,b586,parallels,nosaj thing,Sep 8 2017,fated,nosaj thing,May 4 2015,
-5361,5361,a385,b2976,every country's sun,mogwai,Sep 1 2017,every country's sun,mogwai,Sep 1 2017,
-5365,5365,a388,b2977,the echo of pleasure,the pains of being pure at heart,Sep 1 2017,the punishment of luxury,orchestral manoeuvres in the dark,Sep 1 2017,
-5369,5369,a389,b2979,the punishment of luxury,orchestral manoeuvres in the dark,Sep 1 2017,freedom child,the script,Sep 1 2017,
-5373,5373,a398,b2959,a deeper understanding,the war on drugs,Aug 25 2017,sketches of brunswick east,king gizzard & the lizard wizard and mild high club,Aug 25 2017,
-5388,5388,a409,b2966,"all we know of heaven, all we need of hell",pvris,Aug 25 2017,"all we know of heaven, all we need of hell",pvris,Aug 25 2017,
-5413,5413,a428,b2959,lukas nelson & promise of the real [2017],lukas nelson & promise of the real,Aug 25 2017,sketches of brunswick east,king gizzard & the lizard wizard and mild high club,Aug 25 2017,
-5427,5427,a441,b2950,the right to love,liane carroll,Aug 18 2017,to the bone,steven wilson,Aug 18 2017,
-5440,5440,a470,b2003,"manchester, north of england: a story of independent music, greater manchester 1977-1993 [box set]",various artists,Aug 4 2017,the hamilton mixtape,various artists,Dec 2 2016,
-5464,5464,a484,b2915,a boy from tupelo: the complete 1953-1955 recordings [box set],elvis presley,Jul 28 2017,a black mile to the surface,manchester orchestra,Jul 28 2017,
-5466,5466,a49,b3165,"from a room, vol. 2",chris stapleton,Dec 1 2017,from a room: volume 2,chris stapleton,Dec 1 2017,
-5472,5472,a491,b2003,noise reduction system: formative european electronica 1974-1984 [box set],various artists,Jul 28 2017,the hamilton mixtape,various artists,Dec 2 2016,
-5475,5475,a491,b2355,noise reduction system: formative european electronica 1974-1984 [box set],various artists,Jul 28 2017,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,
-5497,5497,a508,b2897,raskit,dizzee rascal,Jul 21 2017,raskit,dizzee rascal,Jul 21 2017,
-5503,5503,a51,b2355,habibi funk: an eclectic selection,various artists,Dec 1 2017,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,
-5546,5546,a555,b2541,silhouettes and statues: a gothic revolution 1978-1986 [box set],various artists,Jul 7 2017,the fate of the furious: the album,various artists,Apr 14 2017,
-5550,5550,a555,b301,silhouettes and statues: a gothic revolution 1978-1986 [box set],various artists,Jul 7 2017,"the hunger games: mockingjay, part 1 â€“ original motion picture soundtrack",various artists,Nov 17 2014,
-5580,5580,a570,b2855,b-sides and rarities,beach house,Jun 30 2017,1967 â€“ sunshine tomorrow,the beach boys,Jun 30 2017,
-5616,5616,a593,b2835,purple rain [deluxe expanded edition],prince and the revolution,Jun 23 2017,felt,the chain gang of 1974,Jun 23 2017,
-5665,5665,a62,b3146,polygondwanaland,king gizzard & the lizard wizard,Nov 18 2017,polygondwanaland,king gizzard & the lizard wizard,Nov 17 2017,
-5692,5692,a632,b2817,best of crime rock,chain & the gang,Jun 16 2017,the nashville sound,jason isbell and the 400 unit,Jun 16 2017,
-5713,5713,a650,b2795,wolves,rise against,Jun 9 2017,wolves,rise against,Jun 9 2017,
-5745,5745,a683,b808,hopeless fountain kingdom,halsey,Jun 2 2017,badlands,halsey,Aug 28 2015,
-5753,5753,a689,b2754,life is good,flogging molly,Jun 2 2017,life is good,flogging molly,Jun 2 2017,
-5759,5759,a694,b2725,different days,the charlatans uk,May 26 2017,different days,the charlatans,May 26 2017,
-5793,5793,a711,b2574,singles [original motion picture soundtrack] [deluxe edition],various artists,May 19 2017,guardians of the galaxy vol. 2,various artists,Apr 21 2017,
-5799,5799,a711,b321,singles [original motion picture soundtrack] [deluxe edition],various artists,May 19 2017,shady xv,various artists,Nov 24 2014,
-5803,5803,a713,b2698,goths,the mountain goats,May 19 2017,bodyguard,the i.l.y's,May 19 2017,
-5811,5811,a718,b2704,one more light,linkin park,May 19 2017,one more light,linkin park,May 19 2017,
-5830,5830,a731,b2701,move upstairs,the como mamas,May 19 2017,you,the kolors,May 19 2017,
-5843,5843,a744,b2675,a kind revolution,paul weller,May 12 2017,a kind revolution,paul weller,May 12 2017,
-5845,5845,a746,b2672,super natural,jim jones & the righteous mind,May 12 2017,thankful,new kids on the block,May 12 2017,
-5848,5848,a750,b583,ii,l.a. takedown,May 12 2017,ii,metz,May 4 2015,
-5864,5864,a761,b2355,"sing it high, sing it low: tumbleweed records 1971-1973",various artists,May 12 2017,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017,
-5866,5866,a761,b2574,"sing it high, sing it low: tumbleweed records 1971-1973",various artists,May 12 2017,guardians of the galaxy vol. 2,various artists,Apr 21 2017,
-5869,5869,a761,b301,"sing it high, sing it low: tumbleweed records 1971-1973",various artists,May 12 2017,"the hunger games: mockingjay, part 1 â€“ original motion picture soundtrack",various artists,Nov 17 2014,
-5885,5885,a770,b2646,no shape,perfume genius,May 5 2017,no shape,perfume genius,May 5 2017,
-5895,5895,a780,b2635,compassion,forest swords,May 5 2017,compassion,forest swords,May 5 2017,
-5907,5907,a792,b2641,everybody,logic,May 5 2017,everybody,logic,May 5 2017,
-5920,5920,a811,b2597,humanz,gorillaz,Apr 28 2017,humanz,gorillaz,Apr 28 2017,
-5964,5964,a840,b2566,risk to exist,maxÃ¯mo park,Apr 21 2017,risk to exist,maxÃ¯mo park,Apr 21 2017,
-5998,5998,a872,b2467,silver/lead,wire,Apr 7 2017,silver/lead,wire,Mar 31 2017,
-6000,6000,a874,b406,pure comedy,father john misty,Apr 7 2017,"i love you, honeybear",father john misty,Feb 10 2015,
-6018,6018,a886,b2473,belladonna of sadness,alexandra savior,Apr 7 2017,belladonna of sadness,alexandra savior,Apr 7 2017,
-6022,6022,a889,b2511,belong,san fermin,Apr 7 2017,belong,san fermin,Apr 7 2017,
-6061,6061,a898,b2498,every where is some where,k.flay,Apr 7 2017,every where is some where,k.flay,Apr 7 2017,
-6062,6062,a899,b2520,wyw,wear your wounds,Apr 7 2017,wyw,wear your wounds,Apr 7 2017,
-6071,6071,a905,b2003,resistance radio: the man in the high castle album,various artists,Apr 7 2017,the hamilton mixtape,various artists,Dec 2 2016,
-6079,6079,a905,b2652,resistance radio: the man in the high castle album,various artists,Apr 7 2017,cover stories: brandi carlile celebrates 10 years of the story â€“ an album to benefit war child,various artists,May 5 2017,
-6084,6084,a905,b321,resistance radio: the man in the high castle album,various artists,Apr 7 2017,shady xv,various artists,Nov 24 2014,
-6085,6085,a906,b2479,sacred,the obsessed,Apr 7 2017,love in the 4th dimension,the big moon,Apr 7 2017,
-6087,6087,a906,b2492,sacred,the obsessed,Apr 7 2017,inviting light,the flatliners,Apr 7 2017,
-6149,6149,a954,b572,the wild,raekwon,Mar 24 2017,fly international luxurious art,raekwon,Apr 28 2015,
-6157,6157,a970,b1387,more life [mixtape],drake,Mar 18 2017,views,drake,Apr 29 2016,
-6167,6167,a979,b1401,paradise [ep],anohni,Mar 17 2017,hopelessness,anohni,May 6 2016,
-6172,6172,a981,b318,rather you than me,rick ross,Mar 17 2017,hood billionaire,rick ross,Nov 24 2014,
-6175,6175,a982,b732,climate change,pitbull,Mar 17 2017,dale,pitbull,Jul 17 2015,
-6176,6176,a983,b2383,so good,zara larsson,Mar 17 2017,so good,zara larsson,Mar 17 2017,
-6180,6180,a990,b2343,heartworms,the shins,Mar 10 2017,50 song memoir,the magnetic fields,Mar 10 2017,
-6188,6188,a994,b2343,the navigator,hurray for the riff raff,Mar 10 2017,50 song memoir,the magnetic fields,Mar 10 2017,
+,_id,ltable_ID,rtable_ID,ltable_Album,ltable_Artist,ltable_Release Date,rtable_Album,rtable_Artist,rtable_Release Date
+24,24,a1024,b2294,world eater,blanck mass,Mar 3 2017,world eater,blanck mass,Mar 3 2017
+83,83,a1074,b2263,youngish american,dams of the west,Feb 24 2017,still // alone,the golden filter,Feb 24 2017
+98,98,a1094,b2236,terrible human beings,the orwells,Feb 17 2017,terrible human beings,the orwells,Feb 17 2017
+127,127,a1116,b320,new order presents be music,various artists,Feb 17 2017,i'll be home for christmas,various artists,Nov 24 2014
+150,150,a1143,b2171,process,sampha,Feb 3 2017,process,sampha,Feb 3 2017
+193,193,a1183,b294,myths 002 [ep],ariel pink,Jan 27 2017,pom pom,ariel pink,Nov 17 2014
+212,212,a1208,b1780,epoch,tycho,Jan 20 2017,epoch,tycho,Sep 30 2016
+282,282,a1260,b3067,the return of east atlanta santa,gucci mane,Dec 16 2016,mr. davis,gucci mane,Oct 13 2017
+285,285,a1264,b1528,peace trail,neil young,Dec 9 2016,earth,neil young,Jun 17 2016
+323,323,a1280,b2892,the hamilton mixtape,various artists,Dec 2 2016,punk goes pop vol. 7,various artists,Jul 14 2017
+455,455,a1416,b1863,the serenity of suffering,korn,Oct 21 2016,the serenity of suffering,korn,Oct 21 2016
+562,562,a1493,b150,requiem,goat,Oct 7 2016,commune,goat,Sep 23 2014
+590,590,a152,b3113,beach house iii,ty dolla $ign,Oct 27 2017,beach house 3,ty dolla sign,Oct 27 2017
+637,637,a1569,b553,"young as the morning, old as the sea",passenger,Sep 23 2016,whispers ii,passenger,Apr 20 2015
+661,661,a1606,b1720,tidal wave,taking back sunday,Sep 16 2016,tidal wave,taking back sunday,Sep 16 2016
+671,671,a1626,b1681,splendor & misery,clipping,Sep 9 2016,splendor & misery,clipping.,Sep 9 2016
+683,683,a1641,b1682,skeleton tree,nick cave & the bad seeds,Sep 9 2016,act v: hymns with the devil in confessional,the dear hunter,Sep 9 2016
+692,692,a1645,b1696,sea of noise,st. paul & the broken bones,Sep 9 2016,skeleton tree,nick cave and the bad seeds,Sep 9 2016
+714,714,a1659,b1682,signs of light,the head and the heart,Sep 9 2016,act v: hymns with the devil in confessional,the dear hunter,Sep 9 2016
+717,717,a1659,b1703,signs of light,the head and the heart,Sep 9 2016,atmosph√®res,"tigran hamasyan, arve henriksen, eivind aarset, and jan bang",Sep 9 2016
+718,718,a1662,b1675,birds in the trap sing mcknight,travis scott,Sep 2 2016,birds in the trap sing mcknight,travis scott,Sep 2 2016
+722,722,a1664,b1668,false readings on,eluvium,Sep 2 2016,false readings on,eluvium,Sep 2 2016
+850,850,a1801,b1599,major key,dj khaled,Jul 29 2016,major key,dj khaled,Jul 29 2016
+942,942,a1917,b461,friday night [live],will butler,Jun 17 2016,policy,will butler,Mar 10 2015
+946,946,a1924,b1507,blood//sugar//secs//traffic,the gotobeds,Jun 10 2016,fitz and the tantrums,fitz and the tantrums,Jun 10 2016
+949,949,a1926,b1507,charlie faye & the fayettes,charlie faye & the fayettes,Jun 10 2016,fitz and the tantrums,fitz and the tantrums,Jun 10 2016
+955,955,a1932,b1507,breakin' point,peter bjorn and john,Jun 10 2016,fitz and the tantrums,fitz and the tantrums,Jun 10 2016
+974,974,a1955,b1518,hollow bones,rival sons,Jun 10 2016,hollow bones,rival sons,Jun 10 2016
+999,999,a20,b2329,pop 2 [mixtape],charli xcx,Dec 15 2017,number 1 angel,charli xcx,Mar 10 2017
+1064,1064,a2045,b3178,day of the dead,various artists,May 20 2016,quality control: control the streets volume 1,various artists,Dec 8 2017
+1072,1072,a2054,b1445,mayday,boys noize,May 20 2016,mayday,boys noize,May 20 2016
+1077,1077,a2062,b1426,coloring book [mixtape],chance the rapper,May 13 2016,coloring book,chance the rapper,May 13 2016
+1086,1086,a2079,b1435,cloud nine,kygo,May 13 2016,cloud nine,kygo,May 13 2016
+1107,1107,a2099,b498,bottomless pit,death grips,May 6 2016,the powers that b,death grips,Mar 31 2015
+1123,1123,a2119,b1418,solid states,the posies,May 6 2016,chrome,the screaming jets,May 6 2016
+1149,1149,a213,b2416,the wild,the rural alberta advantage,Oct 13 2017,the wild,raekwon,Mar 24 2017
+1158,1158,a2133,b1388,waltzed in from the rumbling,plants and animals,Apr 29 2016,balter/saunier,"ensemble dal niente, marcos balter, and deerhoof",Apr 29 2016
+1183,1183,a2146,b2108,close to the noise floor: formative uk electronica 1975-1984 [box set],various artists,Apr 29 2016,"she rocks, vol. 1",various artists,Jan 20 2017
+1228,1228,a2198,b1337,gore,deftones,Apr 8 2016,gore,deftones,Apr 8 2016
+1231,1231,a22,b1890,pressure,jeezy,Dec 15 2017,trap or die 3,jeezy,Oct 28 2016
+1271,1271,a2228,b1314,everything you've come to expect,the last shadow puppets,Apr 1 2016,the wilderness,explosions in the sky,Apr 1 2016
+1307,1307,a2254,b2887,psychopomp,japanese breakfast,Apr 1 2016,soft sounds from another planet,japanese breakfast,Jul 14 2017
+1343,1343,a2300,b1288,"barbara barbara, we face a shining future",underworld,Mar 18 2016,"barbara barbara, we face a shining future",underworld,Mar 18 2016
+1385,1385,a2325,b1280,feelin kinda free,the drones,Mar 18 2016,gather up the chaps,the falcon,Mar 18 2016
+1475,1475,a2412,b1228,god don't never change: the songs of blind willie johnson,various artists,Feb 26 2016,nemesis: the best of & reworked,blutengel,Feb 26 2016
+1482,1482,a2412,b2205,god don't never change: the songs of blind willie johnson,various artists,Feb 26 2016,fifty shades darker: original motion picture soundtrack,various artists,Feb 10 2017
+1508,1508,a2436,b1212,phase,jack garratt,Feb 19 2016,phase,jack garratt,Feb 19 2016
+1581,1581,a2526,b1142,pillars of ash,black tusk,Jan 29 2016,pillars of ash,black tusk,Jan 29 2016
+1652,1652,a2587,b1092,i long to see you,charles lloyd,Jan 15 2016,i long to see you,charles lloyd & the marvels,Jan 15 2016
+1657,1657,a2589,b2046,blackstar,david bowie,Jan 8 2016,no plan,david bowie,Jan 8 2017
+1672,1672,a2600,b3117,royalty,chris brown,Dec 18 2015,heartbreak on a full moon,chris brown,Oct 31 2017
+1779,1779,a2707,b996,one,kate boy,Nov 6 2015,one,kate boy,Nov 6 2015
+1795,1795,a2719,b905,get up,bryan adams,Oct 30 2015,get up!,bryan adams,Oct 2 2015
+1807,1807,a2731,b2355,joy of living: a tribute to ewan maccoll,various artists,Oct 30 2015,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017
+1814,1814,a2731,b320,joy of living: a tribute to ewan maccoll,various artists,Oct 30 2015,i'll be home for christmas,various artists,Nov 24 2014
+1837,1837,a2749,b2355,"ork records: new york, new york",various artists,Oct 30 2015,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017
+1878,1878,a2799,b1833,the documentary 2.5,the game,Oct 16 2015,1992,the game,Oct 14 2016
+1899,1899,a2823,b928,surrender,hurts,Oct 9 2015,surrender,hurts,Oct 9 2015
+1948,1948,a2866,b2108,trevor jackson presents: science fiction dancehall classics,various artists,Oct 2 2015,"she rocks, vol. 1",various artists,Jan 20 2017
+1957,1957,a2866,b320,trevor jackson presents: science fiction dancehall classics,various artists,Oct 2 2015,i'll be home for christmas,various artists,Nov 24 2014
+1980,1980,a2882,b883,dodge and burn,the dead weather,Sep 25 2015,dodge and burn,the dead weather,Sep 25 2015
+2007,2007,a2905,b865,crosseyed heart,keith richards,Sep 18 2015,crosseyed heart,keith richards,Sep 18 2015
+2020,2020,a2922,b854,"imani, vol. 1",blackalicious,Sep 18 2015,imani vol. 1,blackalicious,Sep 18 2015
+2053,2053,a2965,b838,ropewalk,the view,Sep 11 2015,hollywood vampires,the hollywood vampires,Sep 11 2015
+2076,2076,a2980,b831,"yours, dreamily",the arcs,Sep 4 2015,no closer to heaven,the wonder years,Sep 4 2015
+2078,2078,a2981,b831,the night creeper,uncle acid and the deadbeats,Sep 4 2015,no closer to heaven,the wonder years,Sep 4 2015
+2120,2120,a315,b3027,fabriclive 94,midland,Sep 22 2017,on the rocks,midland,Sep 22 2017
+2123,2123,a317,b3024,brand new abyss,the blow,Sep 22 2017,wonderful wonderful,the killers,Sep 22 2017
+2145,2145,a353,b1528,hitchhiker,neil young,Sep 8 2017,earth,neil young,Jun 17 2016
+2147,2147,a353,b677,hitchhiker,neil young,Sep 8 2017,the monsanto years,neil young,Jun 16 2015
+2191,2191,a40,b2613,versatile,van morrison,Dec 1 2017,the authorized bang collection,van morrison,Apr 28 2017
+2226,2226,a428,b2963,lukas nelson & promise of the real [2017],lukas nelson & promise of the real,Aug 25 2017,be here now,the mynabirds,Aug 25 2017
+2232,2232,a433,b688,a fever dream,everything everything,Aug 18 2017,get to heaven,everything everything,Jun 22 2015
+2284,2284,a491,b2003,noise reduction system: formative european electronica 1974-1984 [box set],various artists,Jul 28 2017,the hamilton mixtape,various artists,Dec 2 2016
+2299,2299,a502,b2616,sacred hearts club,foster the people,Jul 21 2017,iii,foster the people,Apr 30 2017
+2329,2329,a518,b2893,out in the storm,waxahatchee,Jul 14 2017,out in the storm,waxahatchee,Jul 14 2017
+2333,2333,a524,b2887,soft sounds from another planet,japanese breakfast,Jul 14 2017,soft sounds from another planet,japanese breakfast,Jul 14 2017
+2338,2338,a531,b1832,jungle rules,french montana,Jul 14 2017,mc4,french montana,Oct 14 2016
+2355,2355,a555,b2108,silhouettes and statues: a gothic revolution 1978-1986 [box set],various artists,Jul 7 2017,"she rocks, vol. 1",various artists,Jan 20 2017
+2358,2358,a555,b2541,silhouettes and statues: a gothic revolution 1978-1986 [box set],various artists,Jul 7 2017,the fate of the furious: the album,various artists,Apr 14 2017
+2380,2380,a560,b3178,c88 [box set],various artists,Jul 7 2017,quality control: control the streets volume 1,various artists,Dec 8 2017
+2382,2382,a560,b321,c88 [box set],various artists,Jul 7 2017,shady xv,various artists,Nov 24 2014
+2491,2491,a630,b2003,pop makossa: invasive dance beat of cameroon,various artists,Jun 16 2017,the hamilton mixtape,various artists,Dec 2 2016
+2494,2494,a630,b2355,pop makossa: invasive dance beat of cameroon,various artists,Jun 16 2017,beauty and the beast: original motion picture soundtrack,various artists,Mar 10 2017
+2524,2524,a65,b3147,(it was) because i was in love [deluxe reissue],sharon van etten,Nov 17 2017,if all i was was black,mavis staples,Nov 17 2017
+2573,2573,a694,b2738,different days,the charlatans uk,May 26 2017,the songs and poems of molly drake,the unthanks,May 26 2017
+2584,2584,a700,b2725,sgt. pepper's lonely hearts club band [50th anniversary edition deluxe version],the beatles,May 26 2017,different days,the charlatans,May 26 2017
+2634,2634,a726,b2703,the king & i,faith evans and the notorious b.i.g.,May 19 2017,loopyness,lee burridge and lost desert,May 19 2017
+2660,2660,a750,b583,ii,l.a. takedown,May 12 2017,ii,metz,May 4 2015
+2683,2683,a761,b320,"sing it high, sing it low: tumbleweed records 1971-1973",various artists,May 12 2017,i'll be home for christmas,various artists,Nov 24 2014
+2701,2701,a777,b2630,"from a room, vol. 1",chris stapleton,May 5 2017,from a room: volume 1,chris stapleton,May 5 2017
+2735,2735,a815,b2608,visuals,mew,Apr 28 2017,visuals,mew,Apr 28 2017
+2857,2857,a895,b2505,memories: do not open,the chainsmokers,Apr 7 2017,let me fly,mike + the mechanics,Apr 7 2017
+2870,2870,a897,b2508,more scared of you than you are of me,the smith street band,Apr 7 2017,whiteout conditions,the new pornographers,Apr 7 2017
+2874,2874,a899,b2520,wyw,wear your wounds,Apr 7 2017,wyw,wear your wounds,Apr 7 2017
+2880,2880,a904,b2518,thunder of the gods,sun ra,Apr 7 2017,the assassination of julius caesar,ulver,Apr 7 2017
+2881,2881,a905,b1752,resistance radio: the man in the high castle album,various artists,Apr 7 2017,trolls: original motion picture soundtrack,various artists,Sep 23 2016
+2909,2909,a910,b2461,close ties,rodney crowell,Mar 31 2017,close ties,rodney crowell,Mar 31 2017
+2931,2931,a936,b2399,damage and joy,the jesus and mary chain,Mar 24 2017,souvenir,drew holcomb and the neighbors,Mar 24 2017
+3004,3004,a997,b2338,everybody works,jay som,Mar 10 2017,everybody works,jay som,Mar 10 2017
