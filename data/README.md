@@ -13,4 +13,9 @@ Genre - A list of genres that the album belongs to
 Label - A list of companies that published the album  
 Producer - A list of names of the producers of the album (note: this is an empty in metacritic. It is included to match the schema of the wikipedia data)  
 Release Date - The abbreviated month, day, and year of the album's release date  
-Meta Score - The score given by metacritic to the album, based off of various critics (note: this is empty in wikipedia data)  
+Meta Score - The score given by metacritic to the album, based off of various critics (note: this is empty in wikipedia data) 
+
+### Other files
+-candidates.csv is the list of tuple pairs that survive the blocking step  
+-candidates_sample.csv is the list of tuple pairs in the sample with their labels  
+-I.csv and J.csv are the training/test files taken from the samples. (see Sec 3.8 of the how to guide)  
